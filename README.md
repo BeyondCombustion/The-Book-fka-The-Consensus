@@ -32,9 +32,9 @@ If you aren't sure who to buy from, we have a list going of our [favorites.](htt
 
 ## Community Accepted/Preferred
 
-All vapes in this section have been owned and discussed by various members of the community, not all perform equivalently but these vaporizers should be considered first as your best options (price/tier does not indicate performance).  If you see prices have adjusted, links are inactive or information that should be changed please [message the mods](https://www.reddit.com/message/compose?to=%2Fr%2Fvaporents). 
+All vapes in this section have been owned and discussed by various members of the community, not all perform equivalently but these vaporizers should be considered first as your best options (price/tier does not indicate performance).  If you see prices have adjusted, links are inactive or information that should be changed please let us know in the discussions section.
 
-###Key
+### Key
 
 OND - On-Demand
 
