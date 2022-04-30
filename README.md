@@ -27,7 +27,7 @@ Storz & Bickel Crafty+ - $280
 
 Storz & Bickel Mighty/Mighty+ - $349-$399
 
-If you aren't sure who to buy from, we have a list [of licensed retailers](https://github.com/Vaporents/LicensedRetailers)  
+If you aren't sure who to do business with, we have a list [of licensed retailers](https://github.com/Vaporents/LicensedRetailers)  
 
 
 ## Community Accepted/Preferred
