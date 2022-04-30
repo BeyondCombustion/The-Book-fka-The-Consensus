@@ -344,7 +344,7 @@ VapeXHale Cloud Evo - $320 [CNV/DSK]
 
 TVape and associated companies/brands (TorontoVaporizer.ca, Utillian, Zeus, Zeus Arsenal)
 
-If you need help understanding why, [read this post that was deleted by OP, but has been archived.](https://web.archive.org/web/20211026195521/https://www.reddit.com/r/vaporents/comments/qgenyx/the_truth_about_utillian_zeus_and_tvape/)
+If you need help understanding why, [read this post that was deleted by OP, but has been archived.](https://github.com/Vaporents/LicensedRetailers/blob/main/Deleted_TVape_Reddit_Post.md)
 
 
 
