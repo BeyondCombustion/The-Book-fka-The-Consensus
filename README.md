@@ -11,8 +11,8 @@ This is here to help you understand what vaporizers you have as options. There a
 - [Dynavap Vapcap M](https://github.com/Vaporents/The-Consensus/blob/main/Dynavap/Vapcap/M/ReadMe.md) - $75 
 - [POTV One](https://github.com/Vaporents/The-Consensus/blob/main/POTV/One/ReadMe.md) - $109 
 - [Xmax V3 Pro](https://github.com/Vaporents/The-Consensus/blob/main/XVape%20USA/V3%20Pro/ReadMe.md) - $109 
-- HR Fury Edge - $149 
-- HR Rogue - $169 
+- [Healthy Rips Fury Edge](https://github.com/Vaporents/The-Consensus/blob/main/Healthy%20Rips/Fury%20Edge/ReadMe.md) - $149 
+- [Healthy Rips Rogue](https://github.com/Vaporents/The-Consensus/blob/main/Healthy%20Rips/Rogue/ReadMe.md) - $169 
 - Arizer Solo 2 - $185 
 - Tinymight - $249
 - Firewood 7 (Discontinued)- $270 
@@ -108,8 +108,8 @@ All vapes in this section have been owned and discussed by various members of th
 - Fenix Pro/Wolkenkraft Aris - ~$150 [SES/CNV/BAT]
 - Flowermate V5 Nano - $130 [SES/CND/BAT]
 - FlashVape $140-$160 [HYB/BAT]
-- HR Fury Edge - $149 [SES/HYB/BAT]
-- HR Rogue - $169 [SES/HYB/BAT]
+- [Healthy Rips Fury Edge](https://github.com/Vaporents/The-Consensus/blob/main/Healthy%20Rips/Fury%20Edge/ReadMe.md) - $149 [SES/HYB/BAT]
+- [Healthy Rips Rogue](https://github.com/Vaporents/The-Consensus/blob/main/Healthy%20Rips/Rogue/ReadMe.md) - $169 [SES/HYB/BAT]
 - Lotus - $115 (discontinued) [OND/CNV/BTN]
 - Linx Gaia - $160 [SES/CND/BAT]
 - Lil' Bud - $160+ (discontinued?) [OND/CNV/BAT]
