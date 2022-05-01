@@ -8,7 +8,7 @@ This is here to help you understand what vaporizers you have as options. There a
 
 #### Here are some of the most recommended devices for newbies.
 
-- Dynavap Vapcap M - $75 
+- [Dynavap Vapcap M](https://github.com/Vaporents/The-Consensus/blob/main/Dynavap/Vapcap/M/ReadMe.md) - $75 
 - [POTV One](https://github.com/Vaporents/The-Consensus/blob/main/POTV/One/ReadMe.md) - $109 
 - [Xmax V3 Pro](https://github.com/Vaporents/The-Consensus/blob/main/XVape%20USA/V3%20Pro/ReadMe.md) - $109 
 - HR Fury Edge - $149 
@@ -64,7 +64,7 @@ All vapes in this section have been owned and discussed by various members of th
 - Boundless CF - $109 [SES/CND/BAT]
 - Doug's Woodery Nova - $100-$140 [OND/CNV/BTN]
 - Dreamwood DLX M - $106 [OND/CNV/BTN]
-- Dynavap Vapcap M - $75 [OND/HYB/BTN] [1]
+- [Dynavap Vapcap M](https://github.com/Vaporents/The-Consensus/blob/main/Dynavap/Vapcap/M/ReadMe.md) - $75 [OND/HYB/BTN] [1]
 - DynaVap NonaVonG - [Discontinued] [OND/HYB/BTN] [1]
 - Flowermate V5 Series - $80-110 [SES/CND/BAT]
 - GrindHouse Shift (Fury 1 Rebrand) - $60-$80 [SES/HYB/BAT]
