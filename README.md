@@ -71,7 +71,7 @@ All vapes in this section have been owned and discussed by various members of th
 - HR Fury 2 - $109 [SES/HYB/BAT]
 - Mistvape Essence - $80 (discontinued) [OND/CNV/BTN]
 - MPL Stempod Si (Discontinued) - $60 [OND/CNV/MOD]
-- [MPL Stempod Si 2.0](https://github.com/Vaporents/The-Consensus/MPL-Stempod-Si-2.0) - $89 [OND/CNV/MOD]
+- [MPL Stempod Si 2.0](https://github.com/Vaporents/The-Consensus/MPL/Stempod-Si/2.0/ReadMe.md) - $89 [OND/CNV/MOD]
 - O'Connell Woodworks Bong Sook Shin - $95 [OND/CNV/BTN]
 - POTV One - $109 [SES/HYB/BAT]
 - REFC Labs Highlighter - $75 [CNV/DSK]
