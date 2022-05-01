@@ -2,8 +2,6 @@
 ![V3proPurple](https://user-images.githubusercontent.com/104687767/166159473-976e0cef-9986-4786-b8dd-7076b9ee70da.png)
 
 
-![BoxContents](https://user-images.githubusercontent.com/104687767/166159504-f6dab630-3bf9-49d6-879d-715efa6ab0e4.png)
-
 ## What's in the box
 - XMAX V3 PRO Vaporizer
 - 18650 Battery
@@ -13,6 +11,8 @@
 - User Manual
 - Cotton Swabs
 - Alcohol Prep Pads
+
+![BoxContents](https://user-images.githubusercontent.com/104687767/166159504-f6dab630-3bf9-49d6-879d-715efa6ab0e4.png)
 
 ## Technical specifications
 - Battery capacity: Single 18650 Battery
