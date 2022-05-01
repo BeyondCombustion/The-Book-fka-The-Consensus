@@ -10,7 +10,7 @@ This is here to help you understand what vaporizers you have as options. There a
 
 - Dynavap Vapcap M - $75 
 - POTV One - $109 
-- Xmax V3 Pro - $109 
+- [Xmax V3 Pro](https://github.com/Vaporents/The-Consensus/blob/main/XVape%20USA/V3%20Pro/ReadMe.md) - $109 
 - HR Fury Edge - $149 
 - HR Rogue - $169 
 - Arizer Solo 2 - $185 
@@ -86,7 +86,7 @@ All vapes in this section have been owned and discussed by various members of th
 - Vivant VLeaF GO - $69.99 [OND/CNV/BAT]
 - Wolkenkraft FX Mini/Smono 3 - $75-$90 [SES/CNV/BAT]
 - XMAX V2 Pro/Storm - $60 [SES/CND/BAT]
-- Xmax V3 Pro - $109 [OND/CNV/BAT]
+- [Xmax V3 Pro](https://github.com/Vaporents/The-Consensus/blob/main/XVape%20USA/V3%20Pro/ReadMe.md) - $109 [OND/CNV/BAT]
 - XMAX Starry v3 - $89 [SES/CND/BAT]
 
 
