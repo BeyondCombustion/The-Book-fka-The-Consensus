@@ -14,7 +14,7 @@ This is here to help you understand what vaporizers you have as options. There a
 - [Healthy Rips Fury Edge](https://github.com/Vaporents/The-Consensus/blob/main/Healthy%20Rips/Fury%20Edge/ReadMe.md) - $149 
 - [Healthy Rips Rogue](https://github.com/Vaporents/The-Consensus/blob/main/Healthy%20Rips/Rogue/ReadMe.md) - $169 
 - [Arizer Solo 2](https://github.com/Vaporents/The-Consensus/blob/main/Arizer/Solo/2/ReadMe.md) - $185 
-- Tinymight - $249
+- [Tinymight](https://github.com/Vaporents/The-Consensus/blob/main/JTJS%20Products/Tinymight/Readme.md) - $249
 - [Firewood 7](https://github.com/Vaporents/The-Consensus/blob/main/Firewood%20Aromatech/Firewood%207/ReadMe.md) (Discontinued)- $270 
 - [Storz & Bickel Crafty+](https://github.com/Vaporents/The-Consensus/blob/main/Storz%20%26%20Bickel/Crafty/ReadMe.md)+ - $280 
 - [Storz & Bickel Mighty/Mighty+](https://github.com/Vaporents/The-Consensus/blob/main/Storz%20%26%20Bickel/Mighty/ReadMe.md) - $349-$399
@@ -185,7 +185,7 @@ All vapes in this section have been owned and discussed by various members of th
 - Supreme V3.5 (SV3.5) - (discontinued)  [CNV/BTN]
 - Supreme V6 (SV6) - (discontinued) [CNV/DSK/COIL]
 - Tafée Bowle - $369 [CNV/BAT]
-- Tinymight - $249 [CNV/BAT/SES/OND]
+- [Tinymight](https://github.com/Vaporents/The-Consensus/blob/main/JTJS%20Products/Tinymight/Readme.md) - $249 [CNV/BAT/SES/OND]
 - Underdog/Underdog Alpha - $200+ [CNV/DSK]
 - Vapir Rise - $250 [CNV/DSK]
 - Vapman Classic - $180+ [CND/BTN]
