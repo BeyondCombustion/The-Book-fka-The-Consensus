@@ -34,8 +34,6 @@
 - Larger Chamber - 13mm
 - Larger 3000 mAh Battery 
 - Adjustable 3-8 Minute Shut-off Timer
-- OLED Screen
-- USB-C Charging
 
 # What's in the Box: 
 
