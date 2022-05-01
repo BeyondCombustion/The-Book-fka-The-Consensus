@@ -1,6 +1,6 @@
 # FAQ
 ## What are some dry herbs that work well with the Firewood?
-###Chamomile is commonly used in teas for its relaxing properties.  
+### Chamomile is commonly used in teas for its relaxing properties.  
 It should be blended with other relaxing herbs when heated as some users find it harsh.  Native to Europe and West Asia.  Heat to 257-374F
 
 ### Damiana is known as an aphrodisiac and for its calming effects.  Native to Mexico, it has a strong aroma and is believed to be part of the original Margarita recipe. Heat up to 347-374 F.
