@@ -9,7 +9,7 @@ This is here to help you understand what vaporizers you have as options. There a
 #### Here are some of the most recommended devices for newbies.
 
 - Dynavap Vapcap M - $75 
-- POTV One - $109 
+- [POTV One](https://github.com/Vaporents/The-Consensus/blob/main/POTV/One/ReadMe.md) - $109 
 - [Xmax V3 Pro](https://github.com/Vaporents/The-Consensus/blob/main/XVape%20USA/V3%20Pro/ReadMe.md) - $109 
 - HR Fury Edge - $149 
 - HR Rogue - $169 
@@ -73,7 +73,7 @@ All vapes in this section have been owned and discussed by various members of th
 - [MPL Stempod Si](https://github.com/Vaporents/The-Consensus/blob/main/Mod%20Pod%20Labs/Stempod%20Si/1.0/ReadMe.md) (Discontinued) - $60 [OND/CNV/MOD]
 - [MPL Stempod Si 2.0](https://github.com/Vaporents/The-Consensus/blob/main/Mod%20Pod%20Labs/Stempod%20Si/2.0/ReadMe.md) - $89 [OND/CNV/MOD]
 - O'Connell Woodworks Bong Sook Shin - $95 [OND/CNV/BTN]
-- POTV One - $109 [SES/HYB/BAT]
+- [POTV One](https://github.com/Vaporents/The-Consensus/blob/main/POTV/One/ReadMe.md) - $109 [SES/HYB/BAT]
 - REFC Labs Highlighter - $75 [CNV/DSK]
 - RBT Splinter V1/V2 - (Discontinued) [OND/CNV/MOD]
 - RBT Splinter Z V2 - (Discontinued) [OND/CNV/MOD]
