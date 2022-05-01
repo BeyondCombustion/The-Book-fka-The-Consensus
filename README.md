@@ -27,9 +27,9 @@ If you aren't sure who to do business with, there is a crowdsourced list [of ret
 All vapes in this section have been owned and discussed by various members of the community, not all perform equivalently but these vaporizers should be considered first as your best options (price/tier does not indicate performance).  If you see prices have adjusted, links are inactive or information that should be changed please let us know in the discussions section.
 
 #### Key:
-
-| OND  	| On-Demand  	|                                                 	|                                       	|
+| KEY  	|             |                                                 	|                                       	|
 |------	|------------	|-------------------------------------------------	|----------------------------------------	|
+| OND  	| On-Demand  	|                                                 	|                                       	|
 | SES  	| Session    	| Good for sitting and chilling for a while        	|                                       	|
 | CNV  	| Convection 	| Uses hot air to heat dry herb                    	|                                       	|
 | CND  	| Conduction 	| Conduction heater that relies on a tight pack     |                                       	|
