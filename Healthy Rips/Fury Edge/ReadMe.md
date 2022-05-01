@@ -17,10 +17,11 @@
 - 11mm Chamber Capacity .175g to .205g
 - Low Draw Resistance
 - 20 Second Heat-up Time (almost on-demand vapor)
-- Isolated Air Path - Food Grade Stainless Steel
+
+ ## Isolated Air Path - Food Grade Stainless Steel
 - Food Grade Stainless Steel Chamber
 - Stainless Steel Heating Coil
-- USB-C Charging
+## USB-C Charging
 - Charges in 75 - 90 Minutes
 - Class A 2300 mAh Lithium Polymer Battery
 - Provides approximately 75-90 minutes of battery use per charge
@@ -30,7 +31,9 @@
 - Adjustable Session Timer Between 3-7 Minutes
 - Extended Temperature Range Between 280°-430°F
 - Battery Check While Powered Off
-- Upgraded Features From  FURY 2: 
+
+
+# Upgraded Features From  FURY 2: 
 - Accessories Attachment for Various Glass Pieces
 - Much Larger 2300 mAh Battery (1600 mAh on FURY 2)
 - Vibration Notifications
