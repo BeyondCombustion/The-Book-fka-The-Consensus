@@ -60,16 +60,16 @@ Some good sources of genuine batteries are:
 (they sell individual, not just bulk)
 
 # How can I get a copy of the Firewood 7 manual:
-The manual is available here.
+[The manual is available here](https://github.com/Vaporents/The-Consensus/blob/main/Firewood%20Aromatech/man7.pdf)
 
 # How can I get a copy of the Firewood 6 manual:
-The manual is available here.
+[The manual is available here](https://github.com/Vaporents/The-Consensus/blob/main/Firewood%20Aromatech/man6.pdf)
 
 # How can I get a copy of the Firewood 5 manual:
-The manual is available here.
+[The manual is available here](https://github.com/Vaporents/The-Consensus/blob/main/Firewood%20Aromatech/man5.pdf)
 
 # How can I get a copy of the Firewood 4 manual:
-The manual is available here.
+[The manual is available here](https://github.com/Vaporents/The-Consensus/blob/main/Firewood%20Aromatech/man4.pdf)
 
 # Is there a way to adjust the temperature setting ranges (fw3/4)?  Yes, here is how to change Firewood 3/4 temperature settings in 7 degree increments.
 
