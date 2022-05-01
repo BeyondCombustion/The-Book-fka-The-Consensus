@@ -3,7 +3,7 @@
 
 This is here to help you understand what vaporizers you have as options. There are a lot of vaporizers to choose from and not all of them are good. This list won't have every single one but should give you a good idea of what's available and in what price range. Any links for specific vaporizers are not to promote any certain site and should lead to either the best price or an acceptable community appreciated vendor.
 
-## New to vaping dry herb? Start here.
+## New to vaping dry herb? Check out these options.
 (You may also want to check out our [new vapors guide](https://github.com/Vaporents/Start-Here) if you have not already.)
 
 #### Here are some of the most recommended devices for newbies.
