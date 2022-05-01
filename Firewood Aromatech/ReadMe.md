@@ -42,9 +42,10 @@ It should be blended with other relaxing herbs when heated as some users find it
 
  
 
-# What batteries can I use in the Firewood 4/5/6/7?  Batteries used in Firewood 4/5/6/7 must be 18650 size and MUST BE RATED FOR AT LEAST 20A OF CONTINUOUS DISCHARGE CURRENT.  Using improper batteries can cause equipment damage, which can lead to property and/or personal injury.  Button top batteries will not work.  They must be flat top.
-
-### For top performance on Firewood 7, Sony VTC5A and Samsung 20S are highly recommended.
+# What batteries can I use in the Firewood 4/5/6/7?  Batteries used in Firewood 4/5/6/7 must be 18650 size and MUST BE RATED FOR AT LEAST 20A OF CONTINUOUS DISCHARGE CURRENT.  
+## Using improper batteries can cause equipment damage, which can lead to property and/or personal injury.  
+### Button top batteries will not work.  They must be flat top.
+## For top performance on Firewood 7, Sony VTC5A and Samsung 20S are highly recommended.
 
 ## Here is a list of some known good batteries:
 
