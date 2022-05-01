@@ -162,7 +162,7 @@ All vapes in this section have been owned and discussed by various members of th
 - Haze Square Pro - (discontinued) [CNV/BAT]
 - Hopper IO - $265+ [OND/CNV/BAT]
 - Herborizer - $679+ [CNV/DSK]
-- HR Fierce - $189 (discontinued) [SES/HYB/BAT]
+- Healthy Rips Fierce - $189 (discontinued) [SES/HYB/BAT]
 - Lamart Tubo Evic - (discontinued) [SES/OND/CNV/BAT]
 - Lamart TuboX - (discontinued) [SES/OND/CNV/MOD]
 - Lamart Tubo Dual - (discontinued) [SES/OND/CNV/BAT]
@@ -190,7 +190,7 @@ All vapes in this section have been owned and discussed by various members of th
 - Vapir Rise - $250 [CNV/DSK]
 - Vapman Classic - $180+ [CND/BTN]
 - Vapwood Timber - $275+ [CNV/BAT]
-- VapeXHale Cloud Evo - $320 [CNV/DSK]
+- VapeXHale Cloud Evo (Discontinued)- $320 [CNV/DSK]
 
 # Vendors to avoid
 
