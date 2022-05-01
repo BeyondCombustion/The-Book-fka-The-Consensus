@@ -70,7 +70,7 @@ All vapes in this section have been owned and discussed by various members of th
 - GrindHouse Shift (Fury 1 Rebrand) - $60-$80 [SES/HYB/BAT]
 - HR Fury 2 - $109 [SES/HYB/BAT]
 - Mistvape Essence - $80 (discontinued) [OND/CNV/BTN]
-- [MPL Stempod Si](https://github.com/Vaporents/The-Consensus/blob/main/Mod%20Pod%20Labs/Stempod%20Si/ReadMe.md) (Discontinued) - $60 [OND/CNV/MOD]
+- [MPL Stempod Si](https://github.com/Vaporents/The-Consensus/blob/main/Mod%20Pod%20Labs/Stempod%20Si/1.0/ReadMe.md) (Discontinued) - $60 [OND/CNV/MOD]
 - [MPL Stempod Si 2.0](https://github.com/Vaporents/The-Consensus/blob/main/Mod%20Pod%20Labs/Stempod%20Si/2.0/ReadMe.md) - $89 [OND/CNV/MOD]
 - O'Connell Woodworks Bong Sook Shin - $95 [OND/CNV/BTN]
 - POTV One - $109 [SES/HYB/BAT]
