@@ -1,5 +1,5 @@
 
-![image](https://user-images.githubusercontent.com/104687767/166161284-2e83e6bd-6e91-477c-88b1-10ca6ef92c61.png)
+![image](https://user-images.githubusercontent.com/104687767/166161521-1b5429b4-851b-42d1-b874-8a930f31ddf1.png)
 
 Features:
 - Convection Heating Technology
