@@ -13,11 +13,11 @@ This is here to help you understand what vaporizers you have as options. There a
 - [Xmax V3 Pro](https://github.com/Vaporents/The-Consensus/blob/main/XVape%20USA/V3%20Pro/ReadMe.md) - $109 
 - [Healthy Rips Fury Edge](https://github.com/Vaporents/The-Consensus/blob/main/Healthy%20Rips/Fury%20Edge/ReadMe.md) - $149 
 - [Healthy Rips Rogue](https://github.com/Vaporents/The-Consensus/blob/main/Healthy%20Rips/Rogue/ReadMe.md) - $169 
-- Arizer Solo 2 - $185 
+- [Arizer Solo 2](https://github.com/Vaporents/The-Consensus/blob/main/Arizer/Solo/2/ReadMe.md) - $185 
 - Tinymight - $249
-- Firewood 7 (Discontinued)- $270 
-- Storz & Bickel Crafty+ - $280 
-- Storz & Bickel Mighty/Mighty+ - $349-$399
+- [Firewood 7](https://github.com/Vaporents/The-Consensus/blob/main/Firewood%20Aromatech/Firewood%207/ReadMe.md) (Discontinued)- $270 
+- [Storz & Bickel Crafty+](https://github.com/Vaporents/The-Consensus/blob/main/Storz%20%26%20Bickel/Crafty/ReadMe.md)+ - $280 
+- [Storz & Bickel Mighty/Mighty+](https://github.com/Vaporents/The-Consensus/blob/main/Storz%20%26%20Bickel/Mighty/ReadMe.md) - $349-$399
 
 If you aren't sure who to do business with, there is a crowdsourced list [of retailers](https://github.com/Vaporents/Retailers)  
 
@@ -68,7 +68,7 @@ All vapes in this section have been owned and discussed by various members of th
 - DynaVap NonaVonG - [Discontinued] [OND/HYB/BTN] [1]
 - Flowermate V5 Series - $80-110 [SES/CND/BAT]
 - GrindHouse Shift (Fury 1 Rebrand) - $60-$80 [SES/HYB/BAT]
-- HR Fury 2 - $109 [SES/HYB/BAT]
+- [Healthy Rips Fury 2](https://github.com/Vaporents/The-Consensus/blob/main/Healthy%20Rips/Fury%202/ReadMe.md) - $109 [SES/HYB/BAT]
 - Mistvape Essence - $80 (discontinued) [OND/CNV/BTN]
 - [MPL Stempod Si](https://github.com/Vaporents/The-Consensus/blob/main/Mod%20Pod%20Labs/Stempod%20Si/1.0/ReadMe.md) (Discontinued) - $60 [OND/CNV/MOD]
 - [MPL Stempod Si 2.0](https://github.com/Vaporents/The-Consensus/blob/main/Mod%20Pod%20Labs/Stempod%20Si/2.0/ReadMe.md) - $89 [OND/CNV/MOD]
@@ -92,11 +92,11 @@ All vapes in this section have been owned and discussed by various members of th
 
 ### Mid Range (110-179 USD)
 
-- Arizer Air 1 - $150 [SES/HYB/BAT]
-- Arizer Air 2 - $175 [SES/HYB/BAT]
-- Arizer ArGo - $185 [SES/HYB/BAT]
-- Arizer Solo 1 - $150 [SES/HYB/BAT]
-- Arizer Solo 2 - $185 [SES/HYB/BAT]
+- [Arizer Air 1](https://github.com/Vaporents/The-Consensus/blob/main/Arizer/Air/2/ReadMe.md) - $150 [SES/HYB/BAT]
+- [Arizer Air 2](https://github.com/Vaporents/The-Consensus/blob/main/Arizer/Air/2/ReadMe.md) - $175 [SES/HYB/BAT]
+- [Arizer ArGo](https://github.com/Vaporents/The-Consensus/blob/main/Arizer/ArGo/ReadMe.md) - $185 [SES/HYB/BAT]
+- [Arizer Solo 1](https://github.com/Vaporents/The-Consensus/blob/main/Arizer/Solo/1/ReadMe.md) - $150 [SES/HYB/BAT]
+- [Arizer Solo 2](https://github.com/Vaporents/The-Consensus/blob/main/Arizer/Solo/2/ReadMe.md) - $185 [SES/HYB/BAT]
 - Arizer Extreme-Q - $199 [CNV/DSK]
 - Arizer V-Tower - $150 [CNV/DSK]
 - Boundless CFX - $170 [SES/HYB/BAT]
@@ -154,7 +154,7 @@ All vapes in this section have been owned and discussed by various members of th
 - Ed's TNT Woodscents - $295+ [CNV/DSK]
 - Epicvape E-Nano - $190-235+ [CNV/DSK]
 - Firewood 4/5/6 - (Discontinued) [OND/CNV/BAT]
-- Firewood 7 - $270 (Discontinued) [OND/HYB/BAT]
+- [Firewood 7](https://github.com/Vaporents/The-Consensus/blob/main/Firewood%20Aromatech/Firewood%207/ReadMe.md)  - $270 (Discontinued) [OND/HYB/BAT]
 - Firefly 2 - (Discontinued) [OND/CNV/BAT]
 - Firefly 2+ - $249 [OND/CNV/BAT]
 - Ghost MV1 - (Discontinued) [OND/CNV/BAT]
@@ -177,8 +177,8 @@ All vapes in this section have been owned and discussed by various members of th
 - Qaroma Shop Qaroma - $369+ [CNV/DSK/COIL]
 - Sticky Brick HydroBrick Maxx - $200+ [OND/CNV/BTN]
 - Sticky Brick OG Brick - $180+ [OND/CNV/BTN]
-- Storz & Bickel Crafty+ - $280 [SES/HYB/BAT]
-- Storz & Bickel Mighty/Mighty+ - $349-$399 [SES/HYB/BAT]
+- [Storz & Bickel Crafty+](https://github.com/Vaporents/The-Consensus/blob/main/Storz%20%26%20Bickel/Crafty/ReadMe.md) - $280 [SES/HYB/BAT]
+- [Storz & Bickel Mighty/Mighty+](https://github.com/Vaporents/The-Consensus/blob/main/Storz%20%26%20Bickel/Mighty/ReadMe.md) - $349-$399 [SES/HYB/BAT]
 - Storz & Bickel Plenty - $250 [CNV/DSK]
 - Storz & Bickel Volcano Classic - $480+ [CNV/DSK]
 - Storz & Bickel Volcano Hybrid - $699 [HYB/DSK]
