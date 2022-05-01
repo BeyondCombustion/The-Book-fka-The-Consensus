@@ -72,22 +72,22 @@ The manual is available here.
 
 # Is there a way to adjust the temperature setting ranges (fw3/4)?  Yes, here is how to change Firewood 3/4 temperature settings in 7 degree increments.
 
-turn on the device
-wait until battery indicator buzzes are done
-click the button 8 times
-the device will make 8 quick buzzes
-click the button 5 times
-the device will make 5 quick buzzes
-click the button between 0 and 8 times:
-0 clicks = set temp shift to 0
-1 click = set temp shift to approx +7 degrees F for all heat levels
-2 clicks = set temp shift to approx +14 degrees F for all heat levels
-3 clicks = set temp shift to approx +21 degrees F for all heat levels
-4 clicks = set temp shift to approx +28 degrees F for all heat levels
-5 clicks = set temp shift to approx +36 degrees F for all heat levels
-6 clicks = set temp shift to approx +43 degrees F for all heat levels
-7 clicks = set temp shift to approx +50 degrees F for all heat levels
-8 clicks = buzz back the current temp shift setting then shut off.
+1. turn on the device
+2. wait until battery indicator buzzes are done
+3. click the button 8 times
+4. the device will make 8 quick buzzes
+5. click the button 5 times
+6. the device will make 5 quick buzzes
+7. click the button between 0 and 8 times:
+  0 clicks = set temp shift to 0
+  1 click = set temp shift to approx +7 degrees F for all heat levels
+  2 clicks = set temp shift to approx +14 degrees F for all heat levels
+  3 clicks = set temp shift to approx +21 degrees F for all heat levels
+  4 clicks = set temp shift to approx +28 degrees F for all heat levels
+  5 clicks = set temp shift to approx +36 degrees F for all heat levels
+  6 clicks = set temp shift to approx +43 degrees F for all heat levels
+  7 clicks = set temp shift to approx +50 degrees F for all heat levels
+  8 clicks = buzz back the current temp shift setting then shut off.
 
 After you set the level the unit will automatically shut down.  The settings are saved between power downs so you only need to set it once.
 
