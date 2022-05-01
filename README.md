@@ -29,11 +29,11 @@ All vapes in this section have been owned and discussed by various members of th
 #### Key:
 | KEY  	|             |                                                 	|                                       	|
 |------	|------------	|-------------------------------------------------	|----------------------------------------	|
-| OND  	| On-Demand  	|                                                 	|                                       	|
-| SES  	| Session    	| Good for sitting and chilling for a while        	|                                       	|
-| CNV  	| Convection 	| Uses hot air to heat dry herb                    	|                                       	|
+| OND  	| On-Demand  	| Shorter sessions, good if you're on the go       	|                                       	|
+| SES  	| Session    	| Longer sessions, good if you're not in a rush    	|                                       	|
+| CNV  	| Convection 	| A heater that relies on hot air to heat the herb  |                                       	|
 | CND  	| Conduction 	| Conduction heater that relies on a tight pack     |                                       	|
-| HYB  	| Hybrid     	| A mix of convection and conduction               	|                                       	|
+| HYB  	| Hybrid     	| A mix of convection and conduction heating       	|                                       	|
 | BAT  	| Battery    	| Internal or user replacable                       |                                       	|
 | BTN  	| Butane     	| Requires Butane Lighter + Butane Refills         	|                                       	|
 | MOD  	| 510 Atty   	| Used with an ecig mod that has a 510 connector 	  |                                       	|
