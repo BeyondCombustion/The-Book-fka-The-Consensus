@@ -28,16 +28,17 @@ All vapes in this section have been owned and discussed by various members of th
 
 #### Key:
 
-| OND  	| On-Demand  	| Nearly on-demand heating                         	|                                             	|
-| SES  	| Session    	| Good for sitting and chilling for a while       	|                                             	|
-| CNV  	| Convection 	| Uses hot air to heat dry herb                   	|                                             	|
-| CND  	| Conduction 	| Uses conduction in a tight pact oven to heat herb	|                                             	|
-| HYB  	| Hybrid     	|  A mix of convection and conduction             	|                                             	|
-| BAT  	| Battery    	|  Battery required, internal or user replacable   	|                                             	|
-| BTN  	| Butane     	|  Requires Butane Lighter + Butane Refills       	|                                             	|
-| MOD  	| 510 Atty   	|  Used with an ecig mod that has a 510 connector 	|                                             	|
-| COIL 	| PID Coil   	|  Uses a heating coil and PID temp controller    	|    Can be used with retail & DIY options     	|
-| DSK  	| Desktop    	|  Requires AC Power                              	|                                             	|
+| OND  	| On-Demand  	|                                                 	|                                       	|
+|------	|------------	|-------------------------------------------------	|----------------------------------------	|
+| SES  	| Session    	| Good for sitting and chilling for a while        	|                                       	|
+| CNV  	| Convection 	| Uses hot air to heat dry herb                    	|                                       	|
+| CND  	| Conduction 	| Conduction heater that relies on a tight pack     |                                       	|
+| HYB  	| Hybrid     	| A mix of convection and conduction               	|                                       	|
+| BAT  	| Battery    	| Internal or user replacable                       |                                       	|
+| BTN  	| Butane     	| Requires Butane Lighter + Butane Refills         	|                                       	|
+| MOD  	| 510 Atty   	| Used with an ecig mod that has a 510 connector 	  |                                       	|
+| COIL 	| PID Coil   	|  Uses a heating coil and PID temp controller    	| Can be used with retail or DIY options  |
+| DSK  	| Desktop    	|   Requires AC Power                              	|                                       	|
 
 
 ### Budget (25-60 USD)
