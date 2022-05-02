@@ -4,22 +4,22 @@
 This is here to help you understand what vaporizers you have as options. There are a lot of vaporizers to choose from and not all of them are good. This list won't have every single one but should give you a good idea of what's available and in what price range. Any links for specific vaporizers are not to promote any certain site and should lead to either the best price or an acceptable community appreciated vendor.
 
 ## New to vaping dry herb? Check out these options.
-(You may also want to check out our [new vapors guide](https://github.com/Vaporents/Start-Here) if you have not already.)
+(You may also want to check out our [new vapors guide](https://github.com/BeyondCombustion/Start-Here) if you have not already.)
 
 #### Here are some of the most recommended devices for newbies.
 
-- [Dynavap Vapcap M](https://github.com/Vaporents/The-Consensus/blob/main/Dynavap/Vapcap/M/ReadMe.md) - $75 
-- [POTV One](https://github.com/Vaporents/The-Consensus/blob/main/POTV/One/ReadMe.md) - $109 
-- [Xmax V3 Pro](https://github.com/Vaporents/The-Consensus/blob/main/XVape%20USA/V3%20Pro/ReadMe.md) - $109 
-- [Healthy Rips Fury Edge](https://github.com/Vaporents/The-Consensus/blob/main/Healthy%20Rips/Fury%20Edge/ReadMe.md) - $149 
-- [Healthy Rips Rogue](https://github.com/Vaporents/The-Consensus/blob/main/Healthy%20Rips/Rogue/ReadMe.md) - $169 
-- [Arizer Solo 2](https://github.com/Vaporents/The-Consensus/blob/main/Arizer/Solo/2/ReadMe.md) - $185 
-- [Tinymight](https://github.com/Vaporents/The-Consensus/blob/main/JTJS%20Products/Tinymight/Readme.md) - $249
-- [Firewood 7](https://github.com/Vaporents/The-Consensus/blob/main/Firewood%20Aromatech/Firewood%207/ReadMe.md) (Discontinued)- $270 
-- [Storz & Bickel Crafty+](https://github.com/Vaporents/The-Consensus/blob/main/Storz%20%26%20Bickel/Crafty/ReadMe.md)+ - $280 
-- [Storz & Bickel Mighty/Mighty+](https://github.com/Vaporents/The-Consensus/blob/main/Storz%20%26%20Bickel/Mighty/ReadMe.md) - $349-$399
+- [Dynavap Vapcap M](https://github.com/BeyondCombustion/The-Consensus/blob/main/Dynavap/Vapcap/M/ReadMe.md) - $75 
+- [POTV One](https://github.com/BeyondCombustion/The-Consensus/blob/main/POTV/One/ReadMe.md) - $109 
+- [Xmax V3 Pro](https://github.com/BeyondCombustion/The-Consensus/blob/main/XVape%20USA/V3%20Pro/ReadMe.md) - $109 
+- [Healthy Rips Fury Edge](https://github.com/BeyondCombustion/The-Consensus/blob/main/Healthy%20Rips/Fury%20Edge/ReadMe.md) - $149 
+- [Healthy Rips Rogue](https://github.com/BeyondCombustion/The-Consensus/blob/main/Healthy%20Rips/Rogue/ReadMe.md) - $169 
+- [Arizer Solo 2](https://github.com/BeyondCombustion/The-Consensus/blob/main/Arizer/Solo/2/ReadMe.md) - $185 
+- [Tinymight](https://github.com/BeyondCombustion/The-Consensus/blob/main/JTJS%20Products/Tinymight/Readme.md) - $249
+- [Firewood 7](https://github.com/BeyondCombustion/The-Consensus/blob/main/Firewood%20Aromatech/Firewood%207/ReadMe.md) (Discontinued)- $270 
+- [Storz & Bickel Crafty+](https://github.com/BeyondCombustion/The-Consensus/blob/main/Storz%20%26%20Bickel/Crafty/ReadMe.md)+ - $280 
+- [Storz & Bickel Mighty/Mighty+](https://github.com/BeyondCombustion/The-Consensus/blob/main/Storz%20%26%20Bickel/Mighty/ReadMe.md) - $349-$399
 
-If you aren't sure who to do business with, there is a crowdsourced list [of retailers](https://github.com/Vaporents/Retailers)  
+If you aren't sure who to do business with, there is a crowdsourced list [of retailers](https://github.com/BeyondCombustion/Retailers)  
 
 
 ## Community Accepted/Preferred
@@ -64,16 +64,16 @@ All vapes in this section have been owned and discussed by various members of th
 - Boundless CF - $109 [SES/CND/BAT]
 - Doug's Woodery Nova - $100-$140 [OND/CNV/BTN]
 - Dreamwood DLX M - $106 [OND/CNV/BTN]
-- [Dynavap Vapcap M](https://github.com/Vaporents/The-Consensus/blob/main/Dynavap/Vapcap/M/ReadMe.md) - $75 [OND/HYB/BTN] [1]
+- [Dynavap Vapcap M](https://github.com/BeyondCombustion/The-Consensus/blob/main/Dynavap/Vapcap/M/ReadMe.md) - $75 [OND/HYB/BTN] [1]
 - DynaVap NonaVonG - [Discontinued] [OND/HYB/BTN] [1]
 - Flowermate V5 Series - $80-110 [SES/CND/BAT]
 - GrindHouse Shift (Fury 1 Rebrand) - $60-$80 [SES/HYB/BAT]
-- [Healthy Rips Fury 2](https://github.com/Vaporents/The-Consensus/blob/main/Healthy%20Rips/Fury%202/ReadMe.md) - $109 [SES/HYB/BAT]
+- [Healthy Rips Fury 2](https://github.com/BeyondCombustion/The-Consensus/blob/main/Healthy%20Rips/Fury%202/ReadMe.md) - $109 [SES/HYB/BAT]
 - Mistvape Essence - $80 (discontinued) [OND/CNV/BTN]
-- [MPL Stempod Si](https://github.com/Vaporents/The-Consensus/blob/main/Mod%20Pod%20Labs/Stempod%20Si/1.0/ReadMe.md) (Discontinued) - $60 [OND/CNV/MOD]
-- [MPL Stempod Si 2.0](https://github.com/Vaporents/The-Consensus/blob/main/Mod%20Pod%20Labs/Stempod%20Si/2.0/ReadMe.md) - $89 [OND/CNV/MOD]
+- [MPL Stempod Si](https://github.com/BeyondCombustion/The-Consensus/blob/main/Mod%20Pod%20Labs/Stempod%20Si/1.0/ReadMe.md) (Discontinued) - $60 [OND/CNV/MOD]
+- [MPL Stempod Si 2.0](https://github.com/BeyondCombustion/The-Consensus/blob/main/Mod%20Pod%20Labs/Stempod%20Si/2.0/ReadMe.md) - $89 [OND/CNV/MOD]
 - O'Connell Woodworks Bong Sook Shin - $95 [OND/CNV/BTN]
-- [POTV One](https://github.com/Vaporents/The-Consensus/blob/main/POTV/One/ReadMe.md) - $109 [SES/HYB/BAT]
+- [POTV One](https://github.com/BeyondCombustion/The-Consensus/blob/main/POTV/One/ReadMe.md) - $109 [SES/HYB/BAT]
 - REFC Labs Highlighter - $75 [CNV/DSK]
 - RBT Splinter V1/V2 - (Discontinued) [OND/CNV/MOD]
 - RBT Splinter Z V2 - (Discontinued) [OND/CNV/MOD]
@@ -86,17 +86,17 @@ All vapes in this section have been owned and discussed by various members of th
 - Vivant VLeaF GO - $69.99 [OND/CNV/BAT]
 - Wolkenkraft FX Mini/Smono 3 - $75-$90 [SES/CNV/BAT]
 - XMAX V2 Pro/Storm - $60 [SES/CND/BAT]
-- [Xmax V3 Pro](https://github.com/Vaporents/The-Consensus/blob/main/XVape%20USA/V3%20Pro/ReadMe.md) - $109 [OND/CNV/BAT]
+- [Xmax V3 Pro](https://github.com/BeyondCombustion/The-Consensus/blob/main/XVape%20USA/V3%20Pro/ReadMe.md) - $109 [OND/CNV/BAT]
 - XMAX Starry v3 - $89 [SES/CND/BAT]
 
 
 ### Mid Range (110-179 USD)
 
-- [Arizer Air 1](https://github.com/Vaporents/The-Consensus/blob/main/Arizer/Air/2/ReadMe.md) - $150 [SES/HYB/BAT]
-- [Arizer Air 2](https://github.com/Vaporents/The-Consensus/blob/main/Arizer/Air/2/ReadMe.md) - $175 [SES/HYB/BAT]
-- [Arizer ArGo](https://github.com/Vaporents/The-Consensus/blob/main/Arizer/ArGo/ReadMe.md) - $185 [SES/HYB/BAT]
-- [Arizer Solo 1](https://github.com/Vaporents/The-Consensus/blob/main/Arizer/Solo/1/ReadMe.md) - $150 [SES/HYB/BAT]
-- [Arizer Solo 2](https://github.com/Vaporents/The-Consensus/blob/main/Arizer/Solo/2/ReadMe.md) - $185 [SES/HYB/BAT]
+- [Arizer Air 1](https://github.com/BeyondCombustion/The-Consensus/blob/main/Arizer/Air/2/ReadMe.md) - $150 [SES/HYB/BAT]
+- [Arizer Air 2](https://github.com/BeyondCombustion/The-Consensus/blob/main/Arizer/Air/2/ReadMe.md) - $175 [SES/HYB/BAT]
+- [Arizer ArGo](https://github.com/BeyondCombustion/The-Consensus/blob/main/Arizer/ArGo/ReadMe.md) - $185 [SES/HYB/BAT]
+- [Arizer Solo 1](https://github.com/BeyondCombustion/The-Consensus/blob/main/Arizer/Solo/1/ReadMe.md) - $150 [SES/HYB/BAT]
+- [Arizer Solo 2](https://github.com/BeyondCombustion/The-Consensus/blob/main/Arizer/Solo/2/ReadMe.md) - $185 [SES/HYB/BAT]
 - Arizer Extreme-Q - $199 [CNV/DSK]
 - Arizer V-Tower - $150 [CNV/DSK]
 - Boundless CFX - $170 [SES/HYB/BAT]
@@ -108,8 +108,8 @@ All vapes in this section have been owned and discussed by various members of th
 - Fenix Pro/Wolkenkraft Aris - ~$150 [SES/CNV/BAT]
 - Flowermate V5 Nano - $130 [SES/CND/BAT]
 - FlashVape $140-$160 [HYB/BAT]
-- [Healthy Rips Fury Edge](https://github.com/Vaporents/The-Consensus/blob/main/Healthy%20Rips/Fury%20Edge/ReadMe.md) - $149 [SES/HYB/BAT]
-- [Healthy Rips Rogue](https://github.com/Vaporents/The-Consensus/blob/main/Healthy%20Rips/Rogue/ReadMe.md) - $169 [SES/HYB/BAT]
+- [Healthy Rips Fury Edge](https://github.com/BeyondCombustion/The-Consensus/blob/main/Healthy%20Rips/Fury%20Edge/ReadMe.md) - $149 [SES/HYB/BAT]
+- [Healthy Rips Rogue](https://github.com/BeyondCombustion/The-Consensus/blob/main/Healthy%20Rips/Rogue/ReadMe.md) - $169 [SES/HYB/BAT]
 - Lotus - $115 (discontinued) [OND/CNV/BTN]
 - Linx Gaia - $160 [SES/CND/BAT]
 - Lil' Bud - $160+ (discontinued?) [OND/CNV/BAT]
@@ -154,7 +154,7 @@ All vapes in this section have been owned and discussed by various members of th
 - Ed's TNT Woodscents - $295+ [CNV/DSK]
 - Epicvape E-Nano - $190-235+ [CNV/DSK]
 - Firewood 4/5/6 - (Discontinued) [OND/CNV/BAT]
-- [Firewood 7](https://github.com/Vaporents/The-Consensus/blob/main/Firewood%20Aromatech/Firewood%207/ReadMe.md)  - $270 (Discontinued) [OND/HYB/BAT]
+- [Firewood 7](https://github.com/BeyondCombustion/The-Consensus/blob/main/Firewood%20Aromatech/Firewood%207/ReadMe.md)  - $270 (Discontinued) [OND/HYB/BAT]
 - Firefly 2 - (Discontinued) [OND/CNV/BAT]
 - Firefly 2+ - $249 [OND/CNV/BAT]
 - Ghost MV1 - (Discontinued) [OND/CNV/BAT]
@@ -177,15 +177,15 @@ All vapes in this section have been owned and discussed by various members of th
 - Qaroma Shop Qaroma - $369+ [CNV/DSK/COIL]
 - Sticky Brick HydroBrick Maxx - $200+ [OND/CNV/BTN]
 - Sticky Brick OG Brick - $180+ [OND/CNV/BTN]
-- [Storz & Bickel Crafty+](https://github.com/Vaporents/The-Consensus/blob/main/Storz%20%26%20Bickel/Crafty/ReadMe.md) - $280 [SES/HYB/BAT]
-- [Storz & Bickel Mighty/Mighty+](https://github.com/Vaporents/The-Consensus/blob/main/Storz%20%26%20Bickel/Mighty/ReadMe.md) - $349-$399 [SES/HYB/BAT]
+- [Storz & Bickel Crafty+](https://github.com/BeyondCombustion/The-Consensus/blob/main/Storz%20%26%20Bickel/Crafty/ReadMe.md) - $280 [SES/HYB/BAT]
+- [Storz & Bickel Mighty/Mighty+](https://github.com/BeyondCombustion/The-Consensus/blob/main/Storz%20%26%20Bickel/Mighty/ReadMe.md) - $349-$399 [SES/HYB/BAT]
 - Storz & Bickel Plenty - $250 [CNV/DSK]
 - Storz & Bickel Volcano Classic - $480+ [CNV/DSK]
 - Storz & Bickel Volcano Hybrid - $699 [HYB/DSK]
 - Supreme V3.5 (SV3.5) - (discontinued)  [CNV/BTN]
 - Supreme V6 (SV6) - (discontinued) [CNV/DSK/COIL]
 - Tafée Bowle - $369 [CNV/BAT]
-- [Tinymight](https://github.com/Vaporents/The-Consensus/blob/main/JTJS%20Products/Tinymight/Readme.md) - $249 [CNV/BAT/SES/OND]
+- [Tinymight](https://github.com/BeyondCombustion/The-Consensus/blob/main/JTJS%20Products/Tinymight/Readme.md) - $249 [CNV/BAT/SES/OND]
 - Underdog/Underdog Alpha - $200+ [CNV/DSK]
 - Vapir Rise - $250 [CNV/DSK]
 - Vapman Classic - $180+ [CND/BTN]
@@ -196,7 +196,7 @@ All vapes in this section have been owned and discussed by various members of th
 
 - TVape and associated companies/brands (TorontoVaporizer.ca, Utillian, Zeus, Zeus Arsenal)
 
-If you need help understanding why, [read this post that was deleted by OP, but has been archived.](https://github.com/Vaporents/TVape-Zeus-Utillian-Marketing-Manipulation)
+If you need help understanding why, [read this post that was deleted by OP, but has been archived.](https://github.com/BeyondCombustion/TVape-Zeus-Utillian-Marketing-Manipulation)
 
 
 # Avoid these vapes
