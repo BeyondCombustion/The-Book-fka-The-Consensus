@@ -25,18 +25,19 @@ These controllers do not suffer from voltage drift, are very easy to install and
 - Passively vented
 - 1 Pair detent release holes per slot (to remove the module as needed)
 
-# What you get: 
+# What comes with an ATM order:
 - One ATM shell of your choice, 
 
 - and the necessary (2 or 3) DC jacks to populate it
 
-## What you need: 
-- (1 or 2) Stepdown converters, 
-- a sufficient PSU, and M-M cables. 
+## What you need in addition: 
+- (1 or 2) [Stepdown converters](https://www.amazon.com/gp/product/B01LWXAC5E), 
+- a [sufficient PSU](https://www.amazon.com/gp/product/B09H5RKP4G)
+- [and M-M cables(https://www.amazon.com/gp/product/B089CRGKJK) 
 
 ### If you need to go over 11V with your heaters, you must get a PSU of 15V or higher. This 24V 6A is a good choice for HLT + a 12v heater. Dual HLT's can run from a 12v 10A supply. Supply should have a 5.5x2.5mm or 5.5x2.1mm male. 
 
-# A build tutorial video can be found here.
+# A build tutorial video [can be found here](https://www.youtube.com/watch?v=ob_B-bvQG14).
 
 ### See the last photo for the wiring diagram. Note that the upper bay output is disconnected to make things a bit clearer. Module 1 and 2 inputs are jumped between their respective plugs (duplex jumper wire included with kit).
 
