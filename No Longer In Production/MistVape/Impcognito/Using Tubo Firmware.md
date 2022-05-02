@@ -17,7 +17,7 @@
 4. menu>interface>temp to set display to F or C
 5. Go to the menu and follow the steps below. 
   
-  -Do each step in sequence, a fresh build may not work correctly if you don't proceed in sequence.
+  - Do each step in sequence, a fresh build may not work correctly if you don't proceed in sequence.
   
 a. menu>coil>manage set Ni Ti SS each to 0.
 b. menu>coil>tubo and set M1, M2 and M3 to 185
