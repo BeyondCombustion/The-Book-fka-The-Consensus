@@ -8,7 +8,7 @@ The ATM is the world's first economically-minded, advanced multi-heater controll
 
 These controllers do not suffer from voltage drift, are very easy to install and use, and offer huge flexibility and power.
 
-# The ATM Delivers:
+## The ATM Delivers:
 
 - Advanced discrete multi-core control with accuracy to +/- .01V/,01A./01W
 - Digitally controlled and saved output is immune to voltage drift caused by component tolerance
@@ -25,12 +25,11 @@ These controllers do not suffer from voltage drift, are very easy to install and
 - Passively vented
 - 1 Pair detent release holes per slot (to remove the module as needed)
 
-# What comes with an ATM order:
+### What comes with an ATM from REFC :
 - One ATM shell of your choice, 
-
 - and the necessary (2 or 3) DC jacks to populate it
 
-## What you need in addition: 
+### What you need in addition: 
 - (1 or 2) [Stepdown converters](https://www.amazon.com/gp/product/B01LWXAC5E), 
 - a [sufficient PSU](https://www.amazon.com/gp/product/B09H5RKP4G)
 - [and M-M cables(https://www.amazon.com/gp/product/B089CRGKJK) 
