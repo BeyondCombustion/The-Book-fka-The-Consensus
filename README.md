@@ -22,7 +22,7 @@ This is here to help you understand what vaporizers you have as options. There a
 If you aren't sure who to do business with, there is a crowdsourced list [of business](https://github.com/BeyondCombustion/Business)  
 
 
-## The Good
+# The Good
 
 All vapes in this section have been owned and discussed by various members of the community, not all perform equivalently but these vaporizers should be considered first as your best options (price/tier does not indicate performance).  If you see prices have adjusted, links are inactive or information that should be changed please let us know in the discussions section.
 
@@ -192,5 +192,5 @@ All vapes in this section have been owned and discussed by various members of th
 - Vapwood Timber - $275+ [CNV/BAT]
 - VapeXHale Cloud Evo (Discontinued)- $320 [CNV/DSK]
 
-# Vapes to avoid
+# The Bad
 [Click here to go to the "Things To Avoid" repository](https://github.com/BeyondCombustion/Things-To-Avoid)
