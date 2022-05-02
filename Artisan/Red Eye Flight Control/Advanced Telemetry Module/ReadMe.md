@@ -32,7 +32,7 @@ These controllers do not suffer from voltage drift, are very easy to install and
 ### What you need in addition: 
 - (1 or 2) [Stepdown converters](https://www.amazon.com/gp/product/B01LWXAC5E), 
 - a [sufficient PSU](https://www.amazon.com/gp/product/B09H5RKP4G)
-- [and M-M cables(https://www.amazon.com/gp/product/B089CRGKJK) 
+- [and M-M cables](https://www.amazon.com/gp/product/B089CRGKJK) 
 
 ### If you need to go over 11V with your heaters, you must get a PSU of 15V or higher. This 24V 6A is a good choice for HLT + a 12v heater. Dual HLT's can run from a 12v 10A supply. Supply should have a 5.5x2.5mm or 5.5x2.1mm male. 
 
