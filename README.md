@@ -19,10 +19,10 @@ This is here to help you understand what vaporizers you have as options. There a
 - [Storz & Bickel Crafty+](https://github.com/BeyondCombustion/The-Consensus/blob/main/Storz%20%26%20Bickel/Crafty/ReadMe.md)+ - $280 
 - [Storz & Bickel Mighty/Mighty+](https://github.com/BeyondCombustion/The-Consensus/blob/main/Storz%20%26%20Bickel/Mighty/ReadMe.md) - $349-$399
 
-If you aren't sure who to do business with, there is a crowdsourced list [of retailers](https://github.com/BeyondCombustion/Retailers)  
+If you aren't sure who to do business with, there is a crowdsourced list [of business](https://github.com/BeyondCombustion/Business)  
 
 
-## Community Accepted/Preferred
+## The Good
 
 All vapes in this section have been owned and discussed by various members of the community, not all perform equivalently but these vaporizers should be considered first as your best options (price/tier does not indicate performance).  If you see prices have adjusted, links are inactive or information that should be changed please let us know in the discussions section.
 
