@@ -1,2 +1,2 @@
 # Air Max
-## Airizer
+## Airzer
