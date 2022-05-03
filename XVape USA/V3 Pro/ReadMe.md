@@ -1,8 +1,9 @@
-# XMax V3 Pro - by XVape USA
+# XMax V3 Pro 
+## XVape USA
 ![V3proPurple](https://user-images.githubusercontent.com/104687767/166159473-976e0cef-9986-4786-b8dd-7076b9ee70da.png)
 
 
-## What's in the box
+# What's in the box
 - XMAX V3 PRO Vaporizer
 - 18650 Battery
 - Wax Cup for Dry Concentrates
@@ -14,7 +15,7 @@
 
 ![BoxContents](https://user-images.githubusercontent.com/104687767/166159504-f6dab630-3bf9-49d6-879d-715efa6ab0e4.png)
 
-## Technical specifications
+# Technical specifications
 - Battery capacity: Single 18650 Battery
 - Height: 5.91 in / 15 cm
 - Width: 1.05 in / 2.5 cm
@@ -25,5 +26,5 @@
 - One-year warranty
 - 100% Satisfaction Guarantee
 
-## Warranty
+# Warranty
 - One Year Warranty
