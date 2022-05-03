@@ -1,12 +1,16 @@
 
 ![image](https://user-images.githubusercontent.com/104687767/166160489-63a8ed44-3d00-41da-b613-371f9bc06ae0.png)
 
-# FAQ
-## What are some dry herbs that work well with the Firewood?
-### Chamomile is commonly used in teas for its relaxing properties.  
+# Firewood Aromatech
+
+## FAQ
+### What are some dry herbs that work well with the Firewood?
+#### Chamomile 
+Chamomileis commonly used in teas for its relaxing properties.  
 It should be blended with other relaxing herbs when heated as some users find it harsh.  Native to Europe and West Asia.  Heat to 257-374F
 
-### Damiana is known as an aphrodisiac and for its calming effects.  Native to Mexico, it has a strong aroma and is believed to be part of the original Margarita recipe. Heat up to 347-374 F.
+#### Damiana 
+Damiana is known as an aphrodisiac and for its calming effects.  Native to Mexico, it has a strong aroma and is believed to be part of the original Margarita recipe. Heat up to 347-374 F.
 
 ### Eucalyptus has a strong pleasant aroma and is commonly used to treat chest colds and flu.  Native to Australia.  Heat to 266F.
 
