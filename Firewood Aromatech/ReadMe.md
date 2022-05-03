@@ -6,50 +6,67 @@
 ## FAQ
 ### What are some dry herbs that work well with the Firewood?
 #### Chamomile 
-Chamomileis commonly used in teas for its relaxing properties.  
+Chamomile is commonly used in teas for its relaxing properties.  
 It should be blended with other relaxing herbs when heated as some users find it harsh.  Native to Europe and West Asia.  Heat to 257-374F
 
 #### Damiana 
 Damiana is known as an aphrodisiac and for its calming effects.  Native to Mexico, it has a strong aroma and is believed to be part of the original Margarita recipe. Heat up to 347-374 F.
 
-### Eucalyptus has a strong pleasant aroma and is commonly used to treat chest colds and flu.  Native to Australia.  Heat to 266F.
+#### Eucalyptus
+Eucalyptus has a strong pleasant aroma and is commonly used to treat chest colds and flu.  Native to Australia.  Heat to 266F.
 
-### Green Tea is typically used to make tea, but can also be heated up.  It has a stimulant effect due to the caffeine content, which can be more pronounced than when drinking tea.  Heat to 356-365F
+#### Green Tea
+Green Tea is typically used to make tea, but can also be heated up.  It has a stimulant effect due to the caffeine content, which can be more pronounced than when drinking tea.  Heat to 356-365F
 
-### Hemp contains CBD and CBG which are believed to provide relief from anxiety, depression, PTSD, insomnia, and pain.  Heat to 380-400F
+#### Hemp 
+Hemp contains CBD and CBG which are believed to provide relief from anxiety, depression, PTSD, insomnia, and pain.  Heat to 380-400F
 
-### Hops is famous for its use in imparting flavor and aroma to beer.  Heating it up can release the same flavorful terpenes prized by beer makers.  It is also believed to have a mildly euphoric effect.  Heat to 320-392F
+#### Hops
+Hops are famous for their use in imparting flavor and aroma to beer.  Heating it up can release the same flavorful terpenes prized by beer makers.  It is also believed to have a mildly euphoric effect.  Heat to 320-392F
 
-### Lavender is a very popular herb known for its strong floral aroma and calming effects and is believed to be antiseptic and antibacterial.  Heat up to 257-266F.
+#### Lavender
+Lavender is a very popular herb known for its strong floral aroma and calming effects and is believed to be antiseptic and antibacterial.  Heat up to 257-266F.
 
-### Lemon Balm is used to treat digestive issues and relax muscles and has a nice citrus aroma when heated.  Native to Europe and Asia.  Heat to 284-288F
+#### Lemon Balm 
+Lemon Balm is used to treat digestive issues and relax muscles and has a nice citrus aroma when heated.  Native to Europe and Asia.  Heat to 284-288F
 
-### Mulungu has been shown to reduce anxiety and may reduce epileptic seizures and pain. It has also been used for insomnia and high blood pressure. Native to Brazil.  Heat to 392F.
+#### Mulungu
+Mulungu has been shown to reduce anxiety and may reduce epileptic seizures and pain. It has also been used for insomnia and high blood pressure. Native to Brazil.  Heat to 392F.
 
-### Passion Flower is used as a sedative and as an addiction treatment to reduce withdrawal symptoms.  Native to Mexico, Central and South america.  Heat to 284-302F.
+#### Passion Flower
+Passion Flower is used as a sedative and as an addiction treatment to reduce withdrawal symptoms.  Native to Mexico, Central and South america.  Heat to 284-302F.
 
-### Peppermint has a strong refreshing aroma that makes it great for blending with other herbs.  When heated it has an energizing effect and is popular with people suffering from colds.  Heat to 320-338F.
+#### Peppermint
+Peppermint has a strong refreshing aroma that makes it great for blending with other herbs.  When heated it has an energizing effect and is popular with people suffering from colds.  Heat to 320-338F.
 
-### Sage is traditionally used for spiritual cleansing but is also believed to improve brain function and digestion.  Heat to 374F
+#### Sage
+Sage is traditionally used for spiritual cleansing but is also believed to improve brain function and digestion.  Heat to 374F
 
-### Thyme is a common culinary herb that has a nice fresh aroma.   When heated it works well alone or blended with other herbs and is used to treat chest colds.  Heat to 302-374F 
+#### Thyme
+Thyme is a common culinary herb that has a nice fresh aroma.   When heated it works well alone or blended with other herbs and is used to treat chest colds.  Heat to 302-374F 
 
-### Valerian is used to relieve insomnia, stress and pain, and as a sedative.  Native to Europe and Asia.  Heat to 302F.
+#### Valerian
+Valerian is used to relieve insomnia, stress and pain, and as a sedative.  Native to Europe and Asia.  Heat to 302F.
 
-### Wild Lettuce has been used for years as a sedative and pain reducer.  Heat to 284-302F.
+#### Wild Lettuce
+Wild Lettuce has been used for years as a sedative and pain reducer.  Heat to 284-302F.
 
-### Blue Lotus has been used as far back as ancient Egypt as a sedative with mild euphoric effects.  Heat to 230-257F.
+#### Blue Lotus
+Blue Lotus has been used as far back as ancient Egypt as a sedative with mild euphoric effects.  Heat to 230-257F.
 
-### Yerba Mate is commonly used to make tea but can also be heated to release the same energizing effects.  Heat to 302F.
+#### Yerba Mate
+Yerba Mate is commonly used to make tea but can also be heated to release the same energizing effects.  Heat to 302F.
 
-### Catnip doesn’t have the same effects on Humans as it does on Cats but is believed to relieve anxiety and depression and support the immune system.  Heat to 302 F. 
+####
+CatnipCatnip doesn’t have the same effects on Humans as it does on Cats but is believed to relieve anxiety and depression and support the immune system.  Heat to 302 F. 
 
  
 
-# What batteries can I use in the Firewood 4/5/6/7?  Batteries used in Firewood 4/5/6/7 must be 18650 size and MUST BE RATED FOR AT LEAST 20A OF CONTINUOUS DISCHARGE CURRENT.  
-## Using improper batteries can cause equipment damage, which can lead to property and/or personal injury.  
+# What batteries can I use in the Firewood 4/5/6/7?  
+## Batteries used in Firewood 4/5/6/7 must be 18650 size and MUST BE RATED FOR AT LEAST 20A OF CONTINUOUS DISCHARGE CURRENT.  
+# Using improper batteries can cause equipment damage, which can lead to property and/or personal injury.  
 ### Button top batteries will not work.  They must be flat top.
-## For top performance on Firewood 7, Sony VTC5A and Samsung 20S are highly recommended.
+#### For top performance on Firewood 7, Sony VTC5A and Samsung 20S are highly recommended.
 
 ## Here is a list of some known good batteries:
 
