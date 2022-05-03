@@ -1,5 +1,5 @@
 # Firewood 7
-By Firewood Aromatech
+## Firewood Aromatech
 
 ### If you have a 3D printer, [download this handy filling funnel.stl file](https://github.com/Vaporents/The-Consensus/blob/main/Firewood%20Aromatech/Firewood%207/fw7funnel.stl) for your Firewood 7.
 
