@@ -1,5 +1,6 @@
 # The Vaporizer Consensus
 (Update in progress April 2022)
+[Click here for info on how you can contribute to BeyondCombustion.net](https://github.com/BeyondCombustion/How-To-Contribute/blob/main/README.md)
 
 This is here to help you understand what vaporizers you have as options. There are a lot of vaporizers to choose from and not all of them are good. This list won't have every single one but should give you a good idea of what's available and in what price range. Any links for specific vaporizers are not to promote any certain site and should lead to either the best price or an acceptable community appreciated vendor.
 
