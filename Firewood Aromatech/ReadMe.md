@@ -101,14 +101,23 @@ Some good sources of genuine batteries are:
 5. click the button 5 times
 6. the device will make 5 quick buzzes
 7. click the button between 0 and 8 times:
+
   0 clicks = set temp shift to 0
+  
   1 click = set temp shift to approx +7 degrees F for all heat levels
+  
   2 clicks = set temp shift to approx +14 degrees F for all heat levels
+  
   3 clicks = set temp shift to approx +21 degrees F for all heat levels
+  
   4 clicks = set temp shift to approx +28 degrees F for all heat levels
+  
   5 clicks = set temp shift to approx +36 degrees F for all heat levels
+  
   6 clicks = set temp shift to approx +43 degrees F for all heat levels
+  
   7 clicks = set temp shift to approx +50 degrees F for all heat levels
+  
   8 clicks = buzz back the current temp shift setting then shut off.
 
 After you set the level the unit will automatically shut down.  The settings are saved between power downs so you only need to set it once.
