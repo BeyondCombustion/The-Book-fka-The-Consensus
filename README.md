@@ -20,7 +20,7 @@ This is here to help you understand what vaporizers you have as options. There a
 - [Storz & Bickel Crafty+](https://github.com/BeyondCombustion/The-Consensus/blob/main/Storz%20%26%20Bickel/Crafty/ReadMe.md)+ - $280 
 - [Storz & Bickel Mighty/Mighty+](https://github.com/BeyondCombustion/The-Consensus/blob/main/Storz%20%26%20Bickel/Mighty/ReadMe.md) - $349-$399
 
-If you aren't sure who to do business with, there is an open source list [of business](https://github.com/BeyondCombustion/Business)  
+If you aren't sure who to do business with, there is an open source [list of business](https://github.com/BeyondCombustion/Business)  
 
 
 # The Good
