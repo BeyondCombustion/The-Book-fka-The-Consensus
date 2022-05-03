@@ -13,4 +13,5 @@ Warm your favorite botanicals to taste the terpenes in an oxygen-rich vapor with
 
 #### The information contained on this web page is an aid in understanding the various theories and practices, preparation and uses, and does not represent an endorsement or guarantee the efficacy or use of its preparation. This information is not intended in any way to replace or supersede professional consultations, and . is for instructional / and cautionary purposes only. In no way is the information contained herein intended to be a medical or prescriptive guide or to be used for diagnosing or treating a health problem, condition or disease. It is the users responsibility to consult a Physician or Medical Professional.
 
-# IMPORTANT – Obey local laws. Not all botanicals and herbs are legal for use in every Country or State. Check your Local, State, Federal and Importation laws before ordering botanicals. Arizer Products are for legal use only.
+# IMPORTANT 
+### Obey local laws. Not all botanicals and herbs are legal for use in every Country or State. Check your Local, State, Federal and Importation laws before ordering botanicals. Arizer Products are for legal use only.
