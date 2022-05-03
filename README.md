@@ -193,4 +193,4 @@ All vapes in this section have been owned and discussed by various members of th
 - VapeXHale Cloud Evo (Discontinued)- $320 [CNV/DSK]
 
 # The Bad
-[Click here to go to the "Things To Avoid" ](https://github.com/BeyondCombustion/Things-To-Avoid/blob/main/README.md)
+[Click here to go to the "Vapes To Avoid" ](https://github.com/BeyondCombustion/Things-To-Avoid/blob/main/README.md)
