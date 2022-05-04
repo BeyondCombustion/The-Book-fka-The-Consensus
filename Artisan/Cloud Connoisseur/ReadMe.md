@@ -25,7 +25,9 @@
 - Dry heater mass off completely and place back in heater chamber.
 
 ## To change Halo light bulb,
-To change Halo light bulb, you may need silicone tweezers. To remove light bulb:
+#### To change Halo light bulb, you may need silicone tweezers. 
+
+To remove light bulb:
 - remove screen to heater
 - remove all heater mass
 - and remove light bulb. If socket holds light bulb tightly, you may want to use a silicone tip tool to hold socket in place. The new connectors may hold pin tightly its first few changes. The bulb is a 12V 20-Watt Halogen bulb. 
