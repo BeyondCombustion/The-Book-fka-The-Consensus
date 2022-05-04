@@ -1,6 +1,9 @@
 # Fury 2
 ## Healthy Rips
 
+![image](https://user-images.githubusercontent.com/104687767/166609062-9e6e2a73-fbb6-4580-a6e1-47ab0b904340.png)
+
+
 # Features:
 - Convection Heating Technology
 - Protective 'Smell' Cover 
