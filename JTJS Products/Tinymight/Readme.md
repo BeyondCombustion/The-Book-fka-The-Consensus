@@ -1,3 +1,6 @@
+# Tinymight
+## JSTS Products Oy
+
 ![image](https://user-images.githubusercontent.com/104687767/166160888-73485b0c-b406-4b41-9948-7664472192f5.png)
 
 ![image](https://user-images.githubusercontent.com/104687767/166160913-54b71d10-e3b0-4315-b263-f7c6ef1beb03.png)
