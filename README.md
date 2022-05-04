@@ -126,7 +126,7 @@ All vapes in this section have been owned and discussed by various members of th
 - Pax 2 - $150 [SES/CND/BAT]
 - RBT Splinter Custom - $130 (discontinued) [OND/CNV/MOD]
 - RBT Splinter Z Custom -  $169 (discontinued) [OND/CNV/MOD]
-- [REFC Labs JetDryV](https://github.com/BeyondCombustion/The-Consensus/blob/main/Artisan/Red%20Eye%20Flight%20Control/Jet%20Dry%20V/ReadMe.md_ - $135+ [OND/CNV/BTN]
+- [REFC Labs JetDryV](https://github.com/BeyondCombustion/The-Consensus/blob/main/Artisan/Red%20Eye%20Flight%20Control/Jet%20Dry%20V/ReadMe.md) - $135+ [OND/CNV/BTN]
 - Sticky Brick HydroBrick - $130+ [OND/CNV/BTN]
 - Sticky Brick Jr. - $150+ [OND/CNV/BTN]
 - Sticky Brick Runt - $140-$155 [OND/CNV/BTN]
