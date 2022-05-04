@@ -47,7 +47,7 @@ All vapes in this section have been owned and discussed by various members of th
 - Dreamwood Roasty - $50 [OND/CND/BTN]
 - Dreamwood DLX One - $60 [OND/CNV/BTN] 
 - DDavemods Vapcap Powered Complete Waterwand Solutions - $40 [OND/CND/BTN]
-- Divine Tribe Gen 2 DC - $39 [OND/CND/MOD]
+- [Divine Tribe Gen 2 DC](https://github.com/BeyondCombustion/The-Consensus/blob/main/Divine%20Tribe/DC%20Gen2/ReadMe.md) - $39 [OND/CND/MOD]
 - Hammer - $40 [OND/CNV/BTN]
 - Mistvape Bare Essence - $20 (discontinued) [OND/CNV/BTN]
 - Vaponic - $40 [OND/CND/BTN]
