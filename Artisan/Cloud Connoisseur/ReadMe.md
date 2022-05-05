@@ -39,3 +39,6 @@ To remove light bulb:
 ## Condition wood with beeswax or mineral spirits as needed when wood becomes dry to prolong life. 
 
 - Wood will look dull and dry and crack over time.
+
+### SPECIAL THANK YOU- Arb, Hippie, Improvaper, Mike*Hurtz, Seki, *Snacks, and Vaped_Space. We couldn’t have done this without you guys, Thank you so much.
+
