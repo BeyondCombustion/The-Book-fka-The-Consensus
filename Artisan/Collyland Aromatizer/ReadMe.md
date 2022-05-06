@@ -1,2 +1,2 @@
-# Collyland Aromatizer (aka Vapbong, Vapdong, Dongbong, Donger, Thedonger)
+# Collyland Aromatizer (aka Vapbong, Vapdong, Dongbong)
 ## Art of Vapor GmbH
