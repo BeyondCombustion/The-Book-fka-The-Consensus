@@ -59,5 +59,5 @@ We do not recommend cleaning the threads with this or any other liquid solvent. 
 - Do not use any conductive grease or other substance on your threads or back-end. While the application of this conductive grease in the proper way will not hurt your device, the tight tolerances make it very easy to create a short circuit, ruining your Hopper.
 - Do not remove the screen from the front-end or chamber. Incorrect removal or installation could cause your device to stop working.
 
-We hope our suggestions help everyone maintain their Hoppers. Have any other questions related to cleaning? Or have a topic you would like us to discuss? Email blog@grasshoppervape.com with your suggestions.
+We hope our suggestions help everyone maintain their Hoppers.
 
