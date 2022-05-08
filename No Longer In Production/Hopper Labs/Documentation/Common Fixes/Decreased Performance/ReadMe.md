@@ -8,7 +8,7 @@ Well, after screwing the back end (not the heat adjust) back and forth about thr
 
 That and the battery lasts longer!!!
 
-## [Mr. Me2 said:[(https://fuckcombustion.com/goto/post?id=1004528)
+## [Mr. Me2 said:](https://fuckcombustion.com/goto/post?id=1004528)
 
 And I get to try that fix for the flickering blue lights... Thanks so much for that tip @johnnyCanuck !
 
