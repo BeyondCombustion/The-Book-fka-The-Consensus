@@ -1,7 +1,7 @@
 # The Lotus
 ## By Lotus Vaporizer
 
-The Lotus is a portable vaporizer that uses a jet torch for its heat source.
+Introduced in September 2010, The Lotus is a portable vaporizer that uses a jet torch for its heat source.
 
 Its design separates the flame and its fumes from the air you inhale. 
 The air passes through a bowl beneath the heat exchanger( the blue ring), becoming vapor.
