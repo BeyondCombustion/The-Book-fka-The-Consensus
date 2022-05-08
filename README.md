@@ -18,7 +18,7 @@ This is here to help you understand what vaporizers you have as options. There a
 - [Arizer Solo 2](https://github.com/BeyondCombustion/The-Consensus/blob/main/Arizer/Solo/2/ReadMe.md) - $185 
 - [Tinymight](https://github.com/BeyondCombustion/The-Consensus/blob/main/JTJS%20Products/Tinymight/Readme.md) - $249
 - [Firewood 7](https://github.com/BeyondCombustion/The-Consensus/blob/main/Firewood%20Aromatech/Firewood%207/ReadMe.md) (Discontinued)- $270 
-- [Storz & Bickel Crafty+](https://github.com/BeyondCombustion/The-Consensus/blob/main/Storz%20%26%20Bickel/Crafty/ReadMe.md)+ - $280 
+- [Storz & Bickel Crafty+](https://github.com/BeyondCombustion/The-Consensus/blob/main/Storz%20%26%20Bickel/Crafty/ReadMe.md) - $280 
 - [Storz & Bickel Mighty/Mighty+](https://github.com/BeyondCombustion/The-Consensus/blob/main/Storz%20%26%20Bickel/Mighty/ReadMe.md) - $349-$399
 
 If you aren't sure who to do business with, there is an open source [list of business](https://github.com/BeyondCombustion/Business)  
