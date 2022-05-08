@@ -3,6 +3,7 @@
 ## By Hopper Labs 
 ### In Cleaning, Maintenance, Tips & Tricks 
 #### Posted December 22, 2016
+
 ![image](https://user-images.githubusercontent.com/104687767/167316345-1c7acb68-05f9-4eee-9dc2-e7af91142497.png)
 
 Frequently, customers ask for advice on how to keep the Hopper in top condition. With more Hoppers in the wild, we believe it's important to provide our suggestions. We read through the forums, and we are intrigued by the techniques developed by Hopper users. However, while we admire some of the methods, we've seen damaged Hoppers returned to our warranty department, ruined through improper cleaning. So, to help prevent customers from voiding their warranty, we've developed some recommendations.
@@ -10,6 +11,7 @@ Frequently, customers ask for advice on how to keep the Hopper in top condition.
 Because of the efficient vaporization and short vapor path, your Hopper does not need regular cleaning. Taking basic care to clear the chamber, front-end, and threads of plant material after each use will keep you up and running.
 
 The Hopper's front-end has a durable, machine etched stainless steel screen. Not only does it not need to be replaced, but this screen is also designed to withstand scratching during cleaning. Scrape the screen with a small tool or unscrew your backend and use the end of your clip to remove leftover plant material.
+
 ![image](https://user-images.githubusercontent.com/104687767/167316328-6285d903-2a6d-47a8-b118-191fb415522b.png)
 
 # Front Screen
