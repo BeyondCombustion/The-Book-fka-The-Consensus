@@ -8,7 +8,8 @@ I purchased additional batteries. I put a fresh one in and resumed using my Hopp
 
 I thought I had a solution when Caroline responded, "You can try plugging your Charger into the device and the USB port. Then, leaving your Hopper and Charger attached, disconnect the Charger from the USB port and then reconnect it to the USB port. If you still only see 1 red light, please log in to your account on GHVape.com, register your device, and submit a warranty request."
 
-# Keep your charger clean and free of metal debris, keep in mind that it is magnetic:
+# Keep your charger clean and free of metal debris, keep in mind that it is magnetic.
+
 ## [Joel W. said:](https://fuckcombustion.com/goto/post?id=1001377)
 
 Unfortunately, in my case, I think the magnet used to connect the hoppers charger, is prone to picking up bits of conductive metal material in a messy shop environment like mine.
