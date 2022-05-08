@@ -1,6 +1,6 @@
 # Blue-Tac for cleaning threads
 
-## [MoltenTiger}(https://fuckcombustion.com/goto/post?id=1028097) said:
+## [MoltenTiger](https://fuckcombustion.com/goto/post?id=1028097) said:
 
 I've been doing a bit of reading on titanium threads, turns out they are renowned for galling (wear caused by adhesion between sliding surfaces) which is the cause of dark dust build up. 
 
