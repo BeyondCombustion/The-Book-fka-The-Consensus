@@ -18,12 +18,14 @@ For more detailed usage instructions, check out [Max's video on Youtube here.](h
 
 ## Note: The Lotus stops vaporizing as soon as you stop drawing on it.
 #### Lotus illustration
+
 ![image](https://user-images.githubusercontent.com/104687767/167318889-1189b0f5-1b4d-4dcf-86ea-9b73d41473ca.png)
 
 
 # Troubleshooting
 
 - Flame Length - The most important element to success is a 1/2" - 5/8" long inner flame; the distance between two points on the Lotus top plate
+
 ![image](https://user-images.githubusercontent.com/104687767/167318912-8fd8867a-5def-49bd-aa21-f92d1c0232ce.png)
 
 - A Clean Screen - Make sure it is not clogged. Remove the screen with a pin or sharp knife and heat it with the torch to clean it.
