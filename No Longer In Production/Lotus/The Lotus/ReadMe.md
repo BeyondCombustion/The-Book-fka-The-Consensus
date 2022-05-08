@@ -16,3 +16,5 @@ Thanks to the design and construction, there are no metal, plastic or wood flavo
 
 The user adjusts the vaporizing temp by varying his/her inhalation speed and the flame location. 
 A 'hot spot' on the heat exchanger gives visual feedback of the vaporization temperature, shortening the learning curve.
+
+![image](https://user-images.githubusercontent.com/104687767/167319198-946bf5f1-6340-4047-ab54-4274277038e0.png)
