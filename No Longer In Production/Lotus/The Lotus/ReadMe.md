@@ -1,5 +1,5 @@
 # The Lotus
-## Lotus
+## By Lotus Vaporizer
 
 The Lotus is a portable vaporizer that uses a jet torch for its heat source.
 
