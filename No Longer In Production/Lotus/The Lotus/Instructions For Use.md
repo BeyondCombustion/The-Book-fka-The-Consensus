@@ -1,7 +1,9 @@
-# Instructiions For Use
+# Instructions For Use
 ## Lotus Vaporizer
 
-For more detailed usage instructions, check out [Max Jitter's Youtube channel here.](http://www.youtube.com/user/MaxJitter1)
+![image](https://user-images.githubusercontent.com/104687767/167318999-2d71c825-5ecc-4025-b21e-0b84eaf404b6.png)
+
+For more detailed video usage instructions, check out [Max Jitter's Youtube channel here.](http://www.youtube.com/user/MaxJitter1)
 
 
 - Adjust the lighter flame to a 1/2"-5/8" (12mm-14mm) length. 
