@@ -1,6 +1,6 @@
 # Lotus Vaporizer
 ## Max Jitter
-### September 24, 2010
+### 2010-2021
 
 ![image](https://user-images.githubusercontent.com/104687767/167318701-7d7d32a0-d899-41de-b651-d2caa3b34453.png)
 
