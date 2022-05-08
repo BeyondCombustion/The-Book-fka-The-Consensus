@@ -10,5 +10,3 @@
 
 ![image](https://user-images.githubusercontent.com/104687767/167319179-9d0e1fd0-6ead-43af-9618-b75f14cf023f.png)
 
-
-![image](https://user-images.githubusercontent.com/104687767/167319198-946bf5f1-6340-4047-ab54-4274277038e0.png)
