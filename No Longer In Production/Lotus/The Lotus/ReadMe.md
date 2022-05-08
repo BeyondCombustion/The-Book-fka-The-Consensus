@@ -18,3 +18,7 @@ The user adjusts the vaporizing temp by varying his/her inhalation speed and the
 A 'hot spot' on the heat exchanger gives visual feedback of the vaporization temperature, shortening the learning curve.
 
 ![image](https://user-images.githubusercontent.com/104687767/167319198-946bf5f1-6340-4047-ab54-4274277038e0.png)
+
+# Instructions For Use
+
+Instructions on how to use The Lotus [can be found here.](https://github.com/BeyondCombustion/The-Consensus/blob/main/No%20Longer%20In%20Production/Lotus/The%20Lotus/Instructions%20For%20Use.md)
