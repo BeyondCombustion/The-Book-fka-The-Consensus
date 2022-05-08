@@ -6,7 +6,7 @@
 
 
 
-## [The Lotus Vaporizer](https://github.com/BeyondCombustion/The-Consensus/tree/main/No%20Longer%20In%20Production/Lotus/The%20Lotus)
+## [The Lotus](https://github.com/BeyondCombustion/The-Consensus/tree/main/No%20Longer%20In%20Production/Lotus/The%20Lotus)
 
 ![image](https://user-images.githubusercontent.com/104687767/167319179-9d0e1fd0-6ead-43af-9618-b75f14cf023f.png)
 
