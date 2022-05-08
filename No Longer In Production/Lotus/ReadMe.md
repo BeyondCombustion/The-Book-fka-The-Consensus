@@ -1,2 +1,12 @@
-# Lotus
+# Lotus Vaporizer
+## Max Jitter
+### September 24, 2010
+
 ![image](https://user-images.githubusercontent.com/104687767/167318701-7d7d32a0-d899-41de-b651-d2caa3b34453.png)
+
+![image](https://user-images.githubusercontent.com/104687767/167319179-9d0e1fd0-6ead-43af-9618-b75f14cf023f.png)
+
+
+## [The Lotus Vaporizer](https://github.com/BeyondCombustion/The-Consensus/tree/main/No%20Longer%20In%20Production/Lotus/The%20Lotus)
+
+![image](https://user-images.githubusercontent.com/104687767/167319198-946bf5f1-6340-4047-ab54-4274277038e0.png)
