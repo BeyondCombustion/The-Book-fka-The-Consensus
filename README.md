@@ -115,7 +115,7 @@ All vapes in this section have been owned and discussed by various members of th
 - [Lotus](https://github.com/BeyondCombustion/The-Consensus/tree/main/No%20Longer%20In%20Production/Lotus) - $115 (discontinued) [OND/CNV/BTN]
 - Linx Gaia - $160 [SES/CND/BAT]
 - Lil' Bud - $160+ (discontinued?) [OND/CNV/BAT]
-- MillikenWoodWorks Shammer - $125+ [OND/CNV/MOD]
+- [MillikenWoodWorks Shammer](https://github.com/BeyondCombustion/The-Consensus/tree/main/Artisan/Milliken%20Wood%20Works/The%20Shammer) - $125+ [OND/CNV/MOD]
 - Mistvape Imp/Impcognito - $120 (discontinued) [OND/CNV/MOD]
 - Mistvape Touch - $170+ (discontinued) [OND/CNV/BAT]
 - Magic-Flight Launch Box - $120 [OND/CND/BAT]
