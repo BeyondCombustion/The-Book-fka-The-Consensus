@@ -112,7 +112,7 @@ All vapes in this section have been owned and discussed by various members of th
 - FlashVape $140-$160 [HYB/BAT]
 - [Healthy Rips Fury Edge](https://github.com/BeyondCombustion/The-Consensus/blob/main/Healthy%20Rips/Fury%20Edge/ReadMe.md) - $149 [SES/HYB/BAT]
 - [Healthy Rips Rogue](https://github.com/BeyondCombustion/The-Consensus/blob/main/Healthy%20Rips/Rogue/ReadMe.md) - $169 [SES/HYB/BAT]
-- Lotus - $115 (discontinued) [OND/CNV/BTN]
+- [Lotus](https://github.com/BeyondCombustion/The-Consensus/tree/main/No%20Longer%20In%20Production/Lotus) - $115 (discontinued) [OND/CNV/BTN]
 - Linx Gaia - $160 [SES/CND/BAT]
 - Lil' Bud - $160+ (discontinued?) [OND/CNV/BAT]
 - MillikenWoodWorks Shammer - $125+ [OND/CNV/MOD]
