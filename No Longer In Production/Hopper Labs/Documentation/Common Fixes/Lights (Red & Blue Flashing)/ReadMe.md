@@ -2,7 +2,7 @@ Thought this was a great post by u/Reeces_Pieces over on Reddit, so I decided to
 
 Title: Hopper was stuck on Red/Blue flashing (Sensor Damage) Lights. here's how I fixed it
 
-*UPDATE: looks like the post has been deleted for some reason*
+*UPDATE: /r/GrassHopperVape was banned so that comment is gone
 
 https://m.reddit.com/r/GrassHopperVape/comments/4tyxi9/hopper_was_stuck_on_redblue_flashing_sensor/
 
