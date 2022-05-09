@@ -10,12 +10,14 @@ The lotus shaped ring gets very hot and takes 20-30 seconds to cool after the to
 
 ## Will I be breathing metal fumes?
 
+#### NOTE: Lotus did offer testing results on their website when it was active, however these links are long since dead and we have not been able to find a mirror of these original test results. If you have a copy of the original lab tests completed by Max Jitter please submit a pull request so it may be added to the archive.
+
 Testing by an independent laboratory found that the amount of fumes inhaled from the Lotus Vaporizer at vaporizing temperature is the same as that inhaled from ambient air at the high end of normal air quality (1 microgram per day).
-According to the US Government Center for Disease Control (CDC) (https://web.archive.org/web/20150510043051/http://www.atsdr.cdc.gov/toxprofiles/phs15.html) (section 1.3), we breathe in between 0.1 and 1 microgram of nickel per day.
-Summary of Test and Results:Test Results Interpretation (https://web.archive.org/web/20150510043051/http://www.lotusvaporizer.com/sites/www.lotusvaporizer.com/files/Test%20results%20interpretation.pdf)
-Test Protocol: Nickel Fume Protocol (https://web.archive.org/web/20150510043051/http://www.lotusvaporizer.com/sites/www.lotusvaporizer.com/files/SOP%20350- 002%20Nickel%20Fume%20Protocol.pdf)
-Test Conditions: Test Conditions (https://web.archive.org/web/20150510043051/http://www.lotusvaporizer.com/sites/www.lotusvaporizer.com/files/350-002- A%20Test%20Conditions.pdf)
-Test Results: Nickel Test Results (https://web.archive.org/web/20150510043051/http://www.lotusvaporizer.com/sites/www.lotusvaporizer.com/files/Nickel%20Test%20Results%20Oct%202010.pdf)
+According to the US Government Center for Disease Control (CDC) (section 1.3), we breathe in between 0.1 and 1 microgram of nickel per day.
+Summary of Test and Results:Test Results Interpretation 
+Test Protocol: Nickel Fume Protocol 
+Test Conditions: Test Conditions 
+Test Results: Nickel Test Results 
 
 ## Is there any metal, wood, plastic or butane taste in the vapor?
 
