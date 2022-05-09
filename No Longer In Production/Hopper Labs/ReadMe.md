@@ -1,5 +1,5 @@
 # Hopper Labs
-## NOTE: There is essentially no support for Hopper Labs products. While they're still "in business", they're really not. Nobody can get in contact and they're not completing a majority of warranty repairs. Some recent battery purchases shipped around 420 but that's probably all she wrote folks.....
+## NOTE: There is essentially no support for Hopper Labs products. While they're still "in business", they're really not. Nobody can get in contact and they're not completing a majority of warranty repairs. Some recent battery purchases shipped around 4/20/2022 but that's probably all she wrote folks.....
 
 Hopper Labs released two generations of their vaporizer, the [Grasshopper](https://github.com/BeyondCombustion/The-Consensus/tree/main/No%20Longer%20In%20Production/Hopper%20Labs/Grasshopper) and the [Hopper IO.](https://github.com/BeyondCombustion/The-Consensus/tree/main/No%20Longer%20In%20Production/Hopper%20Labs/Hopper%20IO)
 
