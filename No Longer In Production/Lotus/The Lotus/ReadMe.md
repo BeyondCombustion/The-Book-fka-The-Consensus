@@ -25,6 +25,10 @@ A 'hot spot' on the heat exchanger gives visual feedback of the vaporization tem
 
 Instructions on how to use The Lotus [can be found here.](https://github.com/BeyondCombustion/The-Consensus/blob/main/No%20Longer%20In%20Production/Lotus/The%20Lotus/Instructions%20For%20Use.md)
 
+# Lotus FAQ
+
+Original FAQ from lotusvaporizor.com [can be found here.](https://github.com/BeyondCombustion/The-Consensus/blob/main/No%20Longer%20In%20Production/Lotus/The%20Lotus/FAQ.md)
+
 ## Note from the lotusvaporizer.com blog 
 #### Posted by Steven Levin on Feb 5th 2016
 
