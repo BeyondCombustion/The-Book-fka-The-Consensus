@@ -29,7 +29,7 @@ Our products are built in the USA by a small and dedicated team of engineers. Wi
 ## Replaceable Battery
 A battery that can be swapped any time, anywhere is a must-have. With the ability to easily drop in as much power as you need, you'll never be waiting.
 
-##Magnetic Charging
+## Magnetic Charging
 Hopper io ships with a patented magnetic charging ring that slips over the power button. Powered by any USB port, you can charge up almost anywhere.
 
  
