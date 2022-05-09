@@ -34,4 +34,4 @@ Hopper io ships with a patented magnetic charging ring that slips over the power
 
  
 
-### Check out the Titanium Version for more power in an even sleeker package!
+ #### Check out the [Titanium Version](https://github.com/BeyondCombustion/The-Consensus/blob/main/No%20Longer%20In%20Production/Hopper%20Labs/Hopper%20IO/Titanium.md) for more power in an even sleeker package!
