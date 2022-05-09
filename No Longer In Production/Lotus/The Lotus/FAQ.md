@@ -66,6 +66,13 @@ Individual use patterns, practice, etc will have a large impact on how long a fu
 ## Can I use the clean-air Lotus Vaporizer with my own lighter?
 
 The clean-air Lotus Vaporizer should be used with a goose-neck style torch lighter. 
+
 The more common straight-necked torch lighters don't work well with the Lotus because they would have to be used in an upside down position and not operate reliably. 
-The Lotus Vaporizer could be used on its side with a straight-necked torch lighter but you would see the top of the Lotus Vaporizer with only one eye and lose depth perception. While this configuration would work, we don't recommend it.
-A standard yellow flame cigarette lighter does not produce enough heat for the vapor cap to work properly. Additionally, when the flame hits the 'hot plate', a large amount of soot is left behind.
+
+The Lotus Vaporizer could be used on its side with a straight-necked torch lighter but you would see the top of the Lotus Vaporizer with only one eye and lose depth perception. 
+
+While this configuration would work, we don't recommend it.
+
+A standard yellow flame cigarette lighter does not produce enough heat for the vapor cap to work properly. 
+
+Additionally, when the flame hits the 'hot plate', a large amount of soot is left behind.
