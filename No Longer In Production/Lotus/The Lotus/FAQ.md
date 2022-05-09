@@ -28,6 +28,15 @@ The pin is a stir stick. It is used to stir up the contents of the bowl between 
 ## What's the difference between the stem lengths?
 Both stem lengths fully cool the vapor. The short stem is stealthier than the long one. The long one is easier to use if its hard for you to focus your eyes at short distances. The flame should heat the center of the Lotus flower.
 
+## Where is the Lotus Vaporizer made?
+
+The clean-air Lotus Vaporizer is designed and manufactured in the USA. We're doing our part to help manufacturing return to the USA.
+
+## How is the clean-air Lotus Vaporizer different than the competition?
+
+Many of the torch powered vapes pull in butane fumes along with the inhalation air. Our objective in designing the Lotus Vaporizer was that no fumes (butane or otherwise) would be inhaled other than the volatiles of the material being vaporized.
+
+
 # Lighter
 
 ## How do I care for and maintain my lighter?
@@ -58,10 +67,3 @@ The clean-air Lotus Vaporizer should be used with a goose-neck style torch light
 The more common straight-necked torch lighters don't work well with the Lotus because they would have to be used in an upside down position and not operate reliably. 
 The Lotus Vaporizer could be used on its side with a straight-necked torch lighter but you would see the top of the Lotus Vaporizer with only one eye and lose depth perception. While this configuration would work, we don't recommend it.
 A standard yellow flame cigarette lighter does not produce enough heat for the vapor cap to work properly. Additionally, when the flame hits the 'hot plate', a large amount of soot is left behind.
-## Where is the Lotus Vaporizer made?
-
-The clean-air Lotus Vaporizer is designed and manufactured in the USA. We're doing our part to help manufacturing return to the USA.
-
-## How is the clean-air Lotus Vaporizer different than the competition?
-
-Many of the torch powered vapes pull in butane fumes along with the inhalation air. Our objective in designing the Lotus Vaporizer was that no fumes (butane or otherwise) would be inhaled other than the volatiles of the material being vaporized.
