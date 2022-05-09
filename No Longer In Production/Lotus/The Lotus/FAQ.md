@@ -10,7 +10,7 @@ The lotus shaped ring gets very hot and takes 20-30 seconds to cool after the to
 
 ## Will I be breathing metal fumes?
 
-#### BeyondCombustion.net NOTE: Lotus did offer testing results on their website when it was active, however these links are long since dead and we have not been able to find a mirror of these original test results. If you have a copy of the original lab tests completed by Max Jitter please submit a pull request so it may be added to the archive.
+#### BeyondCombustion.net NOTE: Lotus did offer testing results on their website when it was active, however these links are long since dead and we have not been able to find a mirror of these original test result PDFs. If you have a copy of the original lab tests completed by Max Jitter please submit a pull request so it may be added to the archive.
 
 Testing by an independent laboratory found that the amount of fumes inhaled from the Lotus Vaporizer at vaporizing temperature is the same as that inhaled from ambient air at the high end of normal air quality (1 microgram per day).
 According to the US Government Center for Disease Control (CDC) (section 1.3), we breathe in between 0.1 and 1 microgram of nickel per day.
