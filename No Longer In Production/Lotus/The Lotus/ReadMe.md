@@ -25,7 +25,7 @@ A 'hot spot' on the heat exchanger gives visual feedback of the vaporization tem
 
 Instructions on how to use The Lotus [can be found here.](https://github.com/BeyondCombustion/The-Consensus/blob/main/No%20Longer%20In%20Production/Lotus/The%20Lotus/Instructions%20For%20Use.md)
 
-## From the lotusvaporizer.com blog 
+## Note from the lotusvaporizer.com blog 
 #### Posted by Steven Levin on Feb 5th 2016
 
 I became interested in vaporizers in 2007. I looked at the then available butane powered vaporizers and thought that I could make one that is healthier and faster operating. Three years and 12 prototypes later the first Lotus was ready to sell. I thought then that the Lotus was perfect and couldn't be improved. Now I realize that there is no perfect model and that the Lotus will always be improving. I hope you enjoy the present versions.
