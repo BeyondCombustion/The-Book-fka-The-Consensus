@@ -33,4 +33,4 @@ contact@mendovape.com
 
 ## FC Username
 
-[Max Jitter](https://fuckcombustion.com/members/max-jitter.4115/
+[Max Jitter](https://fuckcombustion.com/members/max-jitter.4115/)
