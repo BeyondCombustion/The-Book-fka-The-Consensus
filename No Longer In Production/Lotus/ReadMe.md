@@ -9,3 +9,20 @@
 
 ![image](https://user-images.githubusercontent.com/104687767/167319179-9d0e1fd0-6ead-43af-9618-b75f14cf023f.png)
 
+
+# Historic Contact Info
+
+## Address
+
+Mendocino Therapeutics
+Box 2799
+Ukiah, CA 95482
+USA 
+
+## Email
+
+contact@mendovape.com
+
+## Phone
+
+1-(707)-462-4894
