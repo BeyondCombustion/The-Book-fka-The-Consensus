@@ -18,7 +18,7 @@ For more detailed video usage instructions, check out [Max Jitter's Youtube chan
 - Continue inhaling until your lungs are half full. (Clear the bowl of vapor by removing the torch for the last second.)
 - Remove the Lotus from your mouth and fill your lungs with fresh air to prevent gagging.
 
-## Note: The Lotus stops vaporizing as soon as you stop drawing on it.
+### Note: The Lotus stops vaporizing as soon as you stop drawing on it.
 #### Lotus illustration
 
 ![image](https://user-images.githubusercontent.com/104687767/167318889-1189b0f5-1b4d-4dcf-86ea-9b73d41473ca.png)
