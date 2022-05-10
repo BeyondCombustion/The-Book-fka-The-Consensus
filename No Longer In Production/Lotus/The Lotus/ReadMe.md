@@ -33,3 +33,11 @@ Original FAQ from lotusvaporizor.com [can be found here.](https://github.com/Bey
 #### Posted by Steven Levin on Feb 5th 2016
 
 I became interested in vaporizers in 2007. I looked at the then available butane powered vaporizers and thought that I could make one that is healthier and faster operating. Three years and 12 prototypes later the first Lotus was ready to sell. I thought then that the Lotus was perfect and couldn't be improved. Now I realize that there is no perfect model and that the Lotus will always be improving. I hope you enjoy the present versions.
+
+## Closing Email
+
+I want to thank you for being a loyal Lotus customer. I will be retiring soon and shutting down the Lotus company as it now exists. There will shortly be a presence on eBay to keep everyone supplied with maintenance items: screens, hot plates, etc. If you are thinking of buying a cap or WPA, please do it soon while stock is available. The company may exist with another owner in the future but that is not assured. 
+
+Thanks for a great 10+ years, 
+
+– Max Jitter
