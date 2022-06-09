@@ -92,7 +92,8 @@ Some good sources of genuine batteries are:
 # How can I get a copy of the Firewood 4 manual:
 [The manual is available here](https://github.com/Vaporents/The-Consensus/blob/main/Firewood%20Aromatech/man4.pdf)
 
-# Is there a way to adjust the temperature setting ranges (fw3/4)?  Yes, here is how to change Firewood 3/4 temperature settings in 7 degree increments.
+# Is there a way to adjust the temperature setting ranges (fw3/4)?  
+#### Yes, here is how to change Firewood 3/4 temperature settings in 7 degree increments:
 
 1. turn on the device
 2. wait until battery indicator buzzes are done
