@@ -1,4 +1,5 @@
-# The Vaporizer Consensus
+# The Book
+## Formerly The Vaporizer Consensus
 (Update in progress May 2022)
 
 [Click here for info on how you can contribute to BeyondCombustion.net](https://github.com/BeyondCombustion/How-To-Contribute/blob/main/README.md)
