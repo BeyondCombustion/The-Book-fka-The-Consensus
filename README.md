@@ -29,18 +29,17 @@ If you aren't sure who to do business with, there is an open source [list of bus
 All vapes in this section have been owned and discussed by various members of the community, not all perform equivalently but these vaporizers should be considered first as your best options (price/tier does not indicate performance).  If you see prices have adjusted, links are inactive or information that should be changed please let us know in the discussions section.
 
 #### Key:
-| KEY  	|             |                                                 	|                                       	|
-|------	|------------	|-------------------------------------------------	|----------------------------------------	|
-| OND  	| On-Demand  	| Shorter sessions, good if you're on the go       	|                                       	|
-| SES  	| Session    	| Longer sessions, good if you're not in a rush    	|                                       	|
-| CNV  	| Convection 	| A heater that relies on hot air to heat the herb  |                                       	|
-| CND  	| Conduction 	| Conduction heater that relies on a tight pack     |                                       	|
-| HYB  	| Hybrid     	| A mix of convection and conduction heating       	|                                       	|
-| BAT  	| Battery    	| Internal or user replacable                       |                                       	|
-| BTN  	| Butane     	| Requires Butane Lighter + Butane Refills         	|                                       	|
-| MOD  	| 510 Atty   	| Used with an ecig mod that has a 510 connector 	  |                                       	|
-| COIL 	| PID Coil   	|  Uses a heating coil and PID temp controller    	| Can be used with retail or DIY options  |
-| DSK  	| Desktop    	|   Requires AC Power                              	|                                       	|
+
+- OND - On-Demand: Shorter sessions, good if you're on the go
+- SES - Session: Longer sessions, good if you're not in a rush
+- CNV - Convection: A heater that relies on hot air to heat the herb
+- CND - Conduction: Conduction heater that relies on a tight pack
+- HYB - Hybrid: A mix of convection and conduction heating
+- BAT - Battery: Internal or user replacable
+- BTN - Butane : Requires Butane Lighter + Butane Refills
+- MOD - 510 Atty: Used with an ecig mod that has a 510 connector
+- COIL - PID Coil: Uses a heating coil and PID temp controller. Can be used with retail or DIY options
+- DSK - Desktop: Requires AC Power 
 
 
 ### Budget (25-60 USD)
