@@ -45,12 +45,12 @@ include:
   - What to Avoid
   - XVape USA
   - dotLeaf
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
-  - jekyll-remote-theme
-  paginate: 15
+# plugins:
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-gist
+#   - jekyll-feed
+#   - jemoji
+#   - jekyll-include-cache
+#   - jekyll-remote-theme
+#   paginate: 3
