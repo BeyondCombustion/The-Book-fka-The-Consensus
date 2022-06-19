@@ -1,6 +1,8 @@
 # The Book
 ## Formerly The Vaporizer Consensus
 
+[![pages-build-deployment](https://github.com/BeyondCombustion/The-Book-fka-The-Consensus/actions/workflows/pages/pages-build-deployment/badge.svg)](https://beyondcombustion.github.io/The-Book-fka-The-Consensus/)
+
 [Click here for info on how you can contribute to BeyondCombustion.net](https://github.com/BeyondCombustion/How-To-Contribute/blob/main/README.md)
 
 This is here to help you understand what vaporizers you have as options. There are a lot of vaporizers to choose from and not all of them are good. This list won't have every single one but should give you a good idea of what's available and in what price range. Any links for specific vaporizers are not to promote any certain site and should lead to either the best price or an acceptable community appreciated vendor.
