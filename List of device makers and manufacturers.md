@@ -30,7 +30,6 @@
 - Lamart
 - Lotus
 - Milliken Wood Works
-- MillikenWoodWorks
 - MistVape
 - ModPod Labs
 - Musa
