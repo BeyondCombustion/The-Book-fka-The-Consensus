@@ -19,8 +19,7 @@ There are a lot of vaporizers to choose from and not all of them are good. This 
 [Click here to view BeyondCombustion's 'The List'.](https://github.com/BeyondCombustion/The-Book-fka-The-Consensus/blob/main/The%20List.md)
 
 # The 'Book'
-## Formerly [/r/Vaporent's](https://reddit.com/r/vaporents) 'The Vaporizer Consensus'
-#### An open source guide to help assist those new to the space make an efficient and healthier choice by having all information available in one place.
+### An open source guide to help assist those new to the space make an efficient and healthier choice by having all information available in one place. Formerly [/r/Vaporents'](https://reddit.com/r/vaporents) 'The Vaporizer Consensus'
 
 ## New to vaping dry herb? Check out these options.
 (You may also want to check out [BeyondCombustion's new vapors guide](https://github.com/BeyondCombustion/Start-Here) if you have not already.)
