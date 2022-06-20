@@ -1,7 +1,8 @@
 # The Book
 ## Formerly The Vaporizer Consensus
 
-[![pages-build-deployment](https://github.com/BeyondCombustion/The-Book-fka-The-Consensus/actions/workflows/pages/pages-build-deployment/badge.svg)](https://beyondcombustion.github.io/The-Book-fka-The-Consensus/)
+#### BETA:
+[![pages-build-deployment](https://github.com/BeyondCombustion/The-Book-fka-The-Consensus/actions/workflows/pages/pages-build-deployment/badge.svg)](https://beyondcombustion.github.io/The-Book-fka-The-Consensus/) [Click here to view BeyondCombustion's 'The Book' on GitHub.io](https://beyondcombustion.github.io/The-Book-fka-The-Consensus/) 
 
 [Click here for info on how you can contribute to BeyondCombustion.net](https://github.com/BeyondCombustion/How-To-Contribute/blob/main/README.md)
 
