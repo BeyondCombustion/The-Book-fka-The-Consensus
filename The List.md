@@ -1,6 +1,6 @@
 # BeyondCombustion's 'The List'
-## Device makers and manufacturers
-#### Defunct/Discontinued makers and manufacturers, as well as DIY builds included
+## An index of device makers and manufacturers
+#### *Defunct/Discontinued makers and manufacturers, as well as DIY builds included
 
 # The List
 
