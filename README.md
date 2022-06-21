@@ -2,13 +2,11 @@
 
 [![pages-build-deployment](https://github.com/BeyondCombustion/The-Book-fka-The-Consensus/actions/workflows/pages/pages-build-deployment/badge.svg)](https://beyondcombustion.github.io/The-Book-fka-The-Consensus/) 
 
-[Click here to view a preview of BeyondCombustion's 'The Book' on GitHub.io](https://beyondcombustion.github.io/The-Book-fka-The-Consensus/) 
-
 ### Want to contribute to BeyondCombustion?
 
 [Click here for info on how you can contribute to BeyondCombustion.net!](https://github.com/BeyondCombustion/How-To-Contribute/blob/main/README.md)
 
-# About 'The Book' and 'The List'
+# About ['The Book'](https://github.com/BeyondCombustion/The-Book-fka-The-Consensus/edit/main/README.md#the-book) and '['The List'](https://github.com/BeyondCombustion/The-Book-fka-The-Consensus/edit/main/README.md#the-list)"
 
 ### ['The Book'](https://github.com/BeyondCombustion/The-Book-fka-The-Consensus/edit/main/README.md#the-book) and [The 'List'](https://github.com/BeyondCombustion/The-Book-fka-The-Consensus/blob/main/The%20List.md) are here to help you understand what vaporizers you have as options. 
 
