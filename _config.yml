@@ -18,35 +18,35 @@ date_format: "%Y-%m-%d"
 
 permalink: pretty
 
-include:
-  - Arizer
-  - Artisan
-  - Boundless
-  - Cannabis Hardware
-  - DIY Builds
-  - Davinci
-  - Ditanium
-  - Divine Tribe
-  - Dynavap
-  - Elev8 Glass Gallery
-  - Epic Vape
-  - Firewood Aromatech
-  - Flowermate
-  - Healthy Rips
-  - Herborizer
-  - JTJS Products
-  - ModPod Labs
-  - No Longer In Production
-  - POTV
-  - Pax
-  - Prrl Labs
-  - Sticky Brick Labs
-  - Storz & Bickel
-  - Tafée
-  - Vivant
-  - What to Avoid
-  - XVape USA
-  - dotLeaf
+#include:
+#  - Arizer
+#  - Artisan
+#  - Boundless
+#  - Cannabis Hardware
+#  - DIY Builds
+#  - Davinci
+#  - Ditanium
+#  - Divine Tribe
+#  - Dynavap
+#  - Elev8 Glass Gallery
+#  - Epic Vape
+#  - Firewood Aromatech
+#  - Flowermate
+#  - Healthy Rips
+#  - Herborizer
+#  - JTJS Products
+#  - ModPod Labs
+#  - No Longer In Production
+#  - POTV
+#  - Pax
+#  - Prrl Labs
+#  - Sticky Brick Labs
+#  - Storz & Bickel
+#  - Tafée
+#  - Vivant
+#  - What to Avoid
+#  - XVape USA
+#  - dotLeaf
 # plugins:
 #   - jekyll-paginate
 #   - jekyll-sitemap
