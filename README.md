@@ -4,7 +4,7 @@
 
 ### Want to contribute to BeyondCombustion?
 
-[Click here for info on how you can contribute to BeyondCombustion.net!](https://github.com/BeyondCombustion/How-To-Contribute/blob/main/README.md)
+[Click here for info on how you can help contribute to BeyondCombustion.net!](https://github.com/BeyondCombustion/How-To-Contribute/blob/main/README.md)
 
 # About ['The Book'](https://github.com/BeyondCombustion/The-Book-fka-The-Consensus/edit/main/README.md#the-book) and '['The List'](https://github.com/BeyondCombustion/The-Book-fka-The-Consensus/edit/main/README.md#the-list)"
 
