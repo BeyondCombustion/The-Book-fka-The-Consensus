@@ -1,8 +1,8 @@
 theme: jekyll-theme-slate
-title: [The Book and The List by BeyondCombustion.net]
-descripton: [(Formerly The Consensus) - Open source guides to help assist those new to the space make an efficient and healthier choice by having all information available in one place.]
+title: "'The Book' (Formerly The Consensus) and 'The List'"
+descripton: [Open source guides to help assist those new to the space make an efficient and healthier choice by having all information available in one place.]
 domain: beyondcombustion.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://beyondcombustion.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+url: https://beyondcombustion.net  # the base hostname and protocol for your site, e.g. http://example.com
 # Your name, as you want it to appear underneath each post and in the footer
 author: ProfessionalHandJob
 
