@@ -1,6 +1,6 @@
 # BeyondCombustion's ['The Book'](https://github.com/BeyondCombustion/The-Book-fka-The-Consensus/edit/main/README.md#the-book) and ['The List'](https://github.com/BeyondCombustion/The-Book-fka-The-Consensus/edit/main/README.md#the-list)"
 
-### NEW: BeyondCombustion BETA [![pages-build-deployment](https://github.com/BeyondCombustion/The-Book-fka-The-Consensus/actions/workflows/pages/pages-build-deployment/badge.svg)](https://beyondcombustion.github.io/The-Book-fka-The-Consensus/) 
+[![pages-build-deployment](https://github.com/BeyondCombustion/The-Book-fka-The-Consensus/actions/workflows/pages/pages-build-deployment/badge.svg)](https://beyondcombustion.github.io/The-Book-fka-The-Consensus/) 
 
 [Click here to view a preview of BeyondCombustion's 'The Book' on GitHub.io](https://beyondcombustion.github.io/The-Book-fka-The-Consensus/) 
 
