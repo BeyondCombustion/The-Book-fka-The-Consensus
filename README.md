@@ -14,7 +14,7 @@ There are a lot of vaporizers to choose from and not all of them are good. This 
 
 # 'The List'
 ## An index of device makers and manufacturers.
-#### [Click here to view BeyondCombustion's 'The List'.](https://BeyondCombustion.net/The-Book-fka-The-Consensus/#the-list)
+#### [Click here to view BeyondCombustion's 'The List'.](https://www.beyondcombustion.net/The-Book-fka-The-Consensus/The%20List/)
 
 ---
 
