@@ -15,7 +15,9 @@ There are a lot of vaporizers to choose from and not all of them are good. This 
 # 'The Book'
 ### An open source guide to help assist those new to the space make an efficient and healthier choice by having all information available in one place. Formerly [/r/Vaporents'](https://reddit.com/r/vaporents) 'The Vaporizer Consensus'
 
-# 'The Book' Starts Below:
+---
+
+#### 'The Book' Starts Below:
 
 ## New to vaping dry herb? Check out these options.
 (You may also want to check out [BeyondCombustion's new vapors guide](https://BeyondCombustion.net/Beginners-Start-Here) if you have not already.)
