@@ -17,7 +17,7 @@ There are a lot of vaporizers to choose from and not all of them are good. This 
 #### [Click here to view BeyondCombustion's 'The List'.](https://BeyondCombustion.net/The-Book-fka-The-Consensus/#the-list)
 
 # The 'Book'
-### An open source guide to help assist those new to the space make an efficient and healthier choice by having all information available in one place. Formerly [/r/Vaporents'])https://reddit.com/r/vaporents)'The Vaporizer Consensus'
+### An open source guide to help assist those new to the space make an efficient and healthier choice by having all information available in one place. Formerly [/r/Vaporents'](https://reddit.com/r/vaporents)'The Vaporizer Consensus'
 #### [Click here to view BeyondCombustion's 'The Book'.](https://BeyondCombustion.net/The-Book-fka-The-Consensus/#the-book)
 
 
