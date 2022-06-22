@@ -8,16 +8,16 @@
 
 There are a lot of vaporizers to choose from and not all of them are good. This list won't have every single one but should give you a good idea of what's available and in what price range. Any links for specific vaporizers are not to promote any certain site and should lead to either the best price or an acceptable community appreciated vendor.
 
+---
+
 # 'The List'
 ## An index of device makers and manufacturers.
 #### [Click here to view BeyondCombustion's 'The List'.](https://BeyondCombustion.net/The-Book-fka-The-Consensus/#the-list)
 
-# 'The Book'
-### An open source guide to help assist those new to the space make an efficient and healthier choice by having all information available in one place. Formerly [/r/Vaporents'](https://reddit.com/r/vaporents) 'The Vaporizer Consensus'
-
 ---
 
-#### 'The Book' Starts Below:
+# 'The Book'
+### An open source guide to help assist those new to the space make an efficient and healthier choice by having all information available in one place. Formerly [/r/Vaporents'](https://reddit.com/r/vaporents) 'The Vaporizer Consensus'
 
 ## New to vaping dry herb? Check out these options.
 (You may also want to check out [BeyondCombustion's new vapors guide](https://BeyondCombustion.net/Beginners-Start-Here) if you have not already.)
