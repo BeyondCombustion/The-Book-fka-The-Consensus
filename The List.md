@@ -59,3 +59,13 @@
 - [Vestratto](https://github.com/BeyondCombustion/The-Book-fka-The-Consensus/tree/main/Artisan/Vestratto)
 - [Vivant](https://github.com/BeyondCombustion/The-Book-fka-The-Consensus/tree/main/Vivant)
 - [XVape USA](https://github.com/BeyondCombustion/The-Book-fka-The-Consensus/tree/main/XVape%20USA)
+
+## Navigation
+
+### [Return to BeyondCombustion.net](https://www.beyondcombustion.net/)
+
+### [Review the Glossary](https://BeyondCombustion.net/Glossary/)
+
+### [Go to The Beginners Guide](https://BeyondCombustion.net/Beginners-Start-Here/)
+
+### [Visit BeyondCombustion's Businesses Repository](https://BeyondCombustion.net/Businesses/)
