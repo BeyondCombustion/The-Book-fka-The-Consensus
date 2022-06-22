@@ -1,8 +1,4 @@
-# BeyondCombustion's ['The Book'](https://BeyondCombustion.net/The-Book-fka-The-Consensus/#the-book) and ['The List'](https://BeyondCombustion.net/The-Book-fka-The-Consensus/#the-list)"
-
-[![pages-build-deployment](https://github.com/BeyondCombustion/The-Book-fka-The-Consensus/actions/workflows/pages/pages-build-deployment/badge.svg)](https://beyondcombustion.github.io/The-Book-fka-The-Consensus/) 
-
-### Want to contribute to BeyondCombustion?
+#### Want to contribute to BeyondCombustion?
 
 [Click here for info on how you can help contribute to BeyondCombustion.net!](https://BeyondCombustion.net/How-To-Contribute/)
 
