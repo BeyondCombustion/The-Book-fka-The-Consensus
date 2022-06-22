@@ -209,7 +209,7 @@ All vapes in this section have been owned and discussed by various members of th
 - [VapeXHale Cloud Evo](https://github.com/BeyondCombustion/The-Consensus/tree/main/No%20Longer%20In%20Production/VapeXhale) (Discontinued)- $320 [CNV/DSK]
 
 ## The Bad
-[Click here to go to the "Vapes To Avoid" ](https://BeyondCombustion.net/Things-To-Avoid/)
+#### [Click here to go to the "Vapes To Avoid" ](https://BeyondCombustion.net/Things-To-Avoid/)
 
 ## Navigation
 
