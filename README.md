@@ -1,26 +1,28 @@
-# BeyondCombustion's ['The Book'](https://github.com/BeyondCombustion/The-Book-fka-The-Consensus/edit/main/README.md#the-book) and ['The List'](https://github.com/BeyondCombustion/The-Book-fka-The-Consensus/edit/main/README.md#the-list)"
+# BeyondCombustion's ['The Book'](https://BeyondCombustion.net/The-Book-fka-The-Consensus/#the-book) and ['The List'](https://BeyondCombustion.net/The-Book-fka-The-Consensus/#the-list)"
 
 [![pages-build-deployment](https://github.com/BeyondCombustion/The-Book-fka-The-Consensus/actions/workflows/pages/pages-build-deployment/badge.svg)](https://beyondcombustion.github.io/The-Book-fka-The-Consensus/) 
 
 ### Want to contribute to BeyondCombustion?
 
-[Click here for info on how you can help contribute to BeyondCombustion.net!](https://github.com/BeyondCombustion/How-To-Contribute/blob/main/README.md)
+[Click here for info on how you can help contribute to BeyondCombustion.net!](https://BeyondCombustion.net/How-To-Contribute/)
 
-# About ['The Book'](https://github.com/BeyondCombustion/The-Book-fka-The-Consensus/edit/main/README.md#the-book) and '['The List'](https://github.com/BeyondCombustion/The-Book-fka-The-Consensus/edit/main/README.md#the-list)"
+# About ['The Book'](https://github.com/BeyondCombustion.net/The-Book-fka-The-Consensus/#the-book) and '['The List'](https:/BeyondCombustion.net/The-Book-fka-The-Consensus/#the-list)"
 
-### ['The Book'](https://github.com/BeyondCombustion/The-Book-fka-The-Consensus/edit/main/README.md#the-book) and [The 'List'](https://github.com/BeyondCombustion/The-Book-fka-The-Consensus/blob/main/The%20List.md) are here to help you understand what vaporizers you have as options. 
+### ['The Book'](https://BeyondCombustion.net/The-Book-fka-The-Consensus/#the-book) and [The 'List'](https://BeyondCombustion.net/The-Book-fka-The-Consensus/#the-list) are here to help you understand what vaporizers you have as options. 
 
 There are a lot of vaporizers to choose from and not all of them are good. This list won't have every single one but should give you a good idea of what's available and in what price range. Any links for specific vaporizers are not to promote any certain site and should lead to either the best price or an acceptable community appreciated vendor.
 
 # The 'List'
 ## An index of device makers and manufacturers.
-[Click here to view BeyondCombustion's 'The List'.](https://github.com/BeyondCombustion/The-Book-fka-The-Consensus/blob/main/The%20List.md)
+#### [Click here to view BeyondCombustion's 'The List'.](https://BeyondCombustion.net/The-Book-fka-The-Consensus/#the-list)
 
 # The 'Book'
-### An open source guide to help assist those new to the space make an efficient and healthier choice by having all information available in one place. Formerly [/r/Vaporents'](https://reddit.com/r/vaporents) 'The Vaporizer Consensus'
+### An open source guide to help assist those new to the space make an efficient and healthier choice by having all information available in one place. Formerly [/r/Vaporents'])https://reddit.com/r/vaporents)'The Vaporizer Consensus'
+#### [Click here to view BeyondCombustion's 'The Book'.](https://BeyondCombustion.net/The-Book-fka-The-Consensus/#the-book)
+
 
 ## New to vaping dry herb? Check out these options.
-(You may also want to check out [BeyondCombustion's new vapors guide](https://github.com/BeyondCombustion/Start-Here) if you have not already.)
+(You may also want to check out [BeyondCombustion's new vapors guide](https://BeyondCombustion.net/Beginners-Start-Here) if you have not already.)
 
 #### Here are some of the most recommended devices for newbies.
 
@@ -35,7 +37,7 @@ There are a lot of vaporizers to choose from and not all of them are good. This 
 - [Storz & Bickel Crafty+](https://github.com/BeyondCombustion/The-Consensus/blob/main/Storz%20%26%20Bickel/Crafty/ReadMe.md) - $280 
 - [Storz & Bickel Mighty/Mighty+](https://github.com/BeyondCombustion/The-Consensus/blob/main/Storz%20%26%20Bickel/Mighty/ReadMe.md) - $349-$399
 
-If you aren't sure who to do business with, there is an open source [list of business](https://github.com/BeyondCombustion/Business)  
+If you aren't sure who to do business with, there is an open source [list of business](https://BeyondCombustion.net/Businesses/)  
 
 
 ## The Good
@@ -209,4 +211,14 @@ All vapes in this section have been owned and discussed by various members of th
 - [VapeXHale Cloud Evo](https://github.com/BeyondCombustion/The-Consensus/tree/main/No%20Longer%20In%20Production/VapeXhale) (Discontinued)- $320 [CNV/DSK]
 
 ## The Bad
-[Click here to go to the "Vapes To Avoid" ](https://github.com/BeyondCombustion/Things-To-Avoid/blob/main/README.md)
+[Click here to go to the "Vapes To Avoid" ](https://BeyondCombustion.net/Things-To-Avoid/)
+
+## Navigation
+
+### [Return to BeyondCombustion.net](https://www.beyondcombustion.net/)
+
+### [Review the Glossary](https://BeyondCombustion.net/Glossary/)
+
+### [Go to The Beginners Guide](https://BeyondCombustion.net/Beginners-Start-Here/)
+
+### [Visit BeyondCombustion's Businesses Repository](https://BeyondCombustion.net/Businesses/)
