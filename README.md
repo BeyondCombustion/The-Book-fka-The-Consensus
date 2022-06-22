@@ -2,6 +2,8 @@
 
 [Click here for info on how you can help contribute to BeyondCombustion.net!](https://BeyondCombustion.net/How-To-Contribute/)
 
+---
+
 # About ['The Book'](https://github.com/BeyondCombustion.net/The-Book-fka-The-Consensus/#the-book) and '['The List'](https:/BeyondCombustion.net/The-Book-fka-The-Consensus/#the-list)"
 
 ### ['The Book'](https://BeyondCombustion.net/The-Book-fka-The-Consensus/#the-book) and [The 'List'](https://BeyondCombustion.net/The-Book-fka-The-Consensus/#the-list) are here to help you understand what vaporizers you have as options. 
